@@ -30,6 +30,11 @@ Desktop.ini
 *.user
 *.suo
 
+# Compiled map files (too large for GitHub)
+*.bsp
+*.bak
+*.nm
+
 # Temporary files
 *.tmp
 *.temp
