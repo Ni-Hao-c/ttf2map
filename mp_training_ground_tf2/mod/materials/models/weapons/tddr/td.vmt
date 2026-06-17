@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\tddr\td_col"
+	"$normalmap" "models\weapons\tddr\td_nml"
+	"$translucent" 1
+  "$reractamount" 0.08
+
+Proxies
+{
+     "TextureScroll"
+     {
+       "texturescrollvar" "$basetexturetransform"
+       "texturescrollrate" 0.05
+       "texturescrollangle" 360
+     }
+     }
+ }
