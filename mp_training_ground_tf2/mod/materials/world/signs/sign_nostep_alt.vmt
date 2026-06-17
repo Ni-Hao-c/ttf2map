@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\signs\sign_nostep_alt"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\signs\sign_titan_clearance"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

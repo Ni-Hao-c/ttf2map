@@ -1,0 +1,14 @@
+{
+    "Preload":
+    {
+        "mp_training_ground_tf2.rpak": true
+    },
+    "Aliases":
+    {
+        "mp_lf_traffic.rpak": "mp_training_ground_tf2.rpak"
+
+
+    }
+
+
+}

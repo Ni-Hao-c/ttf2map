@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\signs\absolute_destructions_col"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\asphalt\street_curb_concrete_painted_red_02_col"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

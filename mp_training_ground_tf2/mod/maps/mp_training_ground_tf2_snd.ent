@@ -1,0 +1,308 @@
+ENTITIES01
+{
+"origin" "-3727.97 3187.03 272.224"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter"
+"classname" "ambient_generic"
+}
+{
+"origin" "-3718.05 3007.83 268.462"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter1"
+"classname" "ambient_generic"
+}
+{
+"origin" "-3726.28 2823.06 268.181"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter2"
+"classname" "ambient_generic"
+}
+{
+"origin" "-3718.87 2429.87 276.013"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter3"
+"classname" "ambient_generic"
+}
+{
+"origin" "-3717.96 2252.37 276.171"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter4"
+"classname" "ambient_generic"
+}
+{
+"origin" "-3726.68 2613.2 270.136"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter5"
+"classname" "ambient_generic"
+}
+{
+"origin" "-3728.01 2034.28 270.61"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter6"
+"classname" "ambient_generic"
+}
+{
+"origin" "-3726.65 1861.35 270.497"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter7"
+"classname" "ambient_generic"
+}
+{
+"origin" "-3717.47 1673.87 279.665"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter8"
+"classname" "ambient_generic"
+}
+{
+"origin" "-3717.96 1460.26 276.866"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter9"
+"classname" "ambient_generic"
+}
+{
+"origin" "-3726.46 1277.37 269.724"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter10"
+"classname" "ambient_generic"
+}
+{
+"origin" "-3717.47 1098.18 279.732"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter11"
+"classname" "ambient_generic"
+}
+{
+"origin" "4237.47 3190.48 277.845"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter12"
+"classname" "ambient_generic"
+}
+{
+"origin" "4237.47 3006.65 280.408"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter13"
+"classname" "ambient_generic"
+}
+{
+"origin" "4246.55 2825.18 275.407"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter14"
+"classname" "ambient_generic"
+}
+{
+"origin" "4237.47 2614.86 277.618"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter15"
+"classname" "ambient_generic"
+}
+{
+"origin" "4237.47 2429.49 278.719"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter16"
+"classname" "ambient_generic"
+}
+{
+"origin" "4246.42 2248.83 276.04"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter17"
+"classname" "ambient_generic"
+}
+{
+"origin" "4237.96 2036.28 276.964"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter18"
+"classname" "ambient_generic"
+}
+{
+"origin" "4239.51 1852.5 279.27"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter19"
+"classname" "ambient_generic"
+}
+{
+"origin" "4246.19 1677.09 280.838"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter20"
+"classname" "ambient_generic"
+}
+{
+"origin" "4237.47 1463.22 279.411"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter21"
+"classname" "ambient_generic"
+}
+{
+"origin" "4237.47 1280.79 278.218"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter22"
+"classname" "ambient_generic"
+}
+{
+"origin" "4238.51 1087.86 280.491"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter23"
+"classname" "ambient_generic"
+}
+{
+"origin" "-1371.07 -413.697 255.154"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter24"
+"classname" "ambient_generic"
+}
+{
+"origin" "-1245.8 -415.156 256.192"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter25"
+"classname" "ambient_generic"
+}
+{
+"origin" "-1104 -417.011 257.277"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter26"
+"classname" "ambient_generic"
+}
+{
+"origin" "-1001.84 416.506 252.952"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter27"
+"classname" "ambient_generic"
+}
+{
+"origin" "-800.044 -4.07197 -5.20144"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter28"
+"classname" "ambient_generic"
+}
+{
+"origin" "-703.467 -0.846919 -8.41615"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter29"
+"classname" "ambient_generic"
+}
+{
+"origin" "1056.53 1.06368 -10.6504"
+"soundName" "Amb_TrainingGround_Emitter_Fan"
+"targetname" "TrainingGround_Fan_Emitter30"
+"classname" "ambient_generic"
+}
+{
+"origin" "3442.17 3245.87 19.4695"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire"
+"classname" "ambient_generic"
+}
+{
+"origin" "1584.44 4164.49 22.3972"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire1"
+"classname" "ambient_generic"
+}
+{
+"origin" "2565.37 4138.43 26.4523"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire2"
+"classname" "ambient_generic"
+}
+{
+"origin" "1739.14 1589.58 -24.0478"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire3"
+"classname" "ambient_generic"
+}
+{
+"origin" "1205.68 1494.07 31.0493"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire4"
+"classname" "ambient_generic"
+}
+{
+"origin" "1776.21 1950.79 23.4794"
+"soundName" "amb_TrainingGround_fire_medium"
+"targetname" "TrainingGround_Small_fire5"
+"classname" "ambient_generic"
+}
+{
+"origin" "703.772 2366.64 10.1333"
+"soundName" "amb_TrainingGround_fire_medium"
+"targetname" "TrainingGround_Small_fire6"
+"classname" "ambient_generic"
+}
+{
+"origin" "-2900.33 4070.02 31.9404"
+"soundName" "amb_TrainingGround_fire_medium"
+"targetname" "TrainingGround_Small_fire7"
+"classname" "ambient_generic"
+}
+{
+"origin" "-1830.3 3325.13 3.99514"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire8"
+"classname" "ambient_generic"
+}
+{
+"origin" "-1720.67 3044.24 280.005"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire9"
+"classname" "ambient_generic"
+}
+{
+"origin" "-1547.13 2962.03 280.008"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire10"
+"classname" "ambient_generic"
+}
+{
+"origin" "-3155.77 1656.27 17.7024"
+"soundName" "amb_TrainingGround_fire_medium"
+"targetname" "TrainingGround_Small_fire11"
+"classname" "ambient_generic"
+}
+{
+"origin" "-3300.47 1810.77 28.1983"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire12"
+"classname" "ambient_generic"
+}
+{
+"origin" "2257.22 1754.98 -13.182"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire13"
+"classname" "ambient_generic"
+}
+{
+"origin" "-2839.73 1654.36 0.426759"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire14"
+"classname" "ambient_generic"
+}
+{
+"origin" "-2605.76 3750.42 -3.18488"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire15"
+"classname" "ambient_generic"
+}
+{
+"origin" "-2408.81 3724.07 -7.75538"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire16"
+"classname" "ambient_generic"
+}
+{
+"origin" "917.008 2371.78 -17.9192"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire17"
+"classname" "ambient_generic"
+}
+{
+"origin" "3478.71 4199.74 110.301"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire18"
+"classname" "ambient_generic"
+}
+{
+"origin" "-2405.69 3422.67 4.00006"
+"soundName" "amb_TrainingGround_fire_small"
+"targetname" "TrainingGround_Small_fire19"
+"classname" "ambient_generic"
+}
+ 

@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world/decal/decals_grime_drips_04_col"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

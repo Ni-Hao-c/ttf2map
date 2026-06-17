@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\decal\imc_logo_large_col"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

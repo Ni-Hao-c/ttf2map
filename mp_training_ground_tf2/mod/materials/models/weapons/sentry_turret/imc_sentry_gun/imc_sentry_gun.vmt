@@ -1,0 +1,4 @@
+"Basic"
+{
+    "$basetexture" "models\weapons\sentry_turret\imc_sentry_gun\imc_sentry_gun_col"
+}

@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\decal\grime_oil_drip_asphalt01_col"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

@@ -1,0 +1,35 @@
+{
+  "input_obj": "D:\\Game\\steams\\steamapps\\common\\Titanfall2\\R2Northstar\\mods\\mp_training_ground_tf2\\mod\\models\\door\\_visible_box_bunker_door_frame_96x90_20260607_200550\\bunker_door_frame_96x90.visible.obj",
+  "output_stats": "D:\\Game\\steams\\steamapps\\common\\Titanfall2\\R2Northstar\\mods\\mp_training_ground_tf2\\mod\\models\\door\\_visible_box_bunker_door_frame_96x90_20260607_200550\\bunker_door_frame_96x90.visible_boxes.stats.json",
+  "mode": "visible-mesh-recursive-aabb",
+  "max_boxes": 1,
+  "min_faces": 1,
+  "input_vertices": 828,
+  "input_faces": 480,
+  "hull_count": 1,
+  "hulls": [
+    {
+      "index": 0,
+      "vertices": 8,
+      "faces": 480,
+      "bounds": [
+        [
+          -0.6630859375,
+          -65.275390625,
+          0
+        ],
+        [
+          12.330078125,
+          65.2744140625,
+          107.353515625
+        ]
+      ],
+      "center": [
+        5.83349609375,
+        -0.00048828125,
+        53.6767578125
+      ],
+      "volume": 182098.9409349393
+    }
+  ]
+}

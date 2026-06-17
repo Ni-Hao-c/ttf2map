@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/weapons_r2/props/bullet_mag_col"
+	"$translucent" 1
+}

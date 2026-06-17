@@ -1,0 +1,4 @@
+"Basic"
+{
+    "$basetexture" "models\vehicle\vehicle_destructable_sedan\destroyed\destructable_sedan_glass_destroyed_col"
+}

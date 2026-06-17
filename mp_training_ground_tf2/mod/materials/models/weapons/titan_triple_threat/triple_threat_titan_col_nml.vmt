@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/weapons/titan_triple_threat/triple_threat_titan_col_nml"
+	"$translucent" 1
+}

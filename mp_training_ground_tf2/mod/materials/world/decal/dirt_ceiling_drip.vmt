@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\decal\dirt_ceiling_drip_col"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

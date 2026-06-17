@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\decal\bullet_impact01_COL"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

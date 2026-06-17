@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\decal\bullet_hole_concrete_03_col"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

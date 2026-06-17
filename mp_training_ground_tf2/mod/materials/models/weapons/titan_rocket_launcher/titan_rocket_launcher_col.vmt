@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/weapons/titan_rocket_launcher/titan_rocket_launcher_col"
+	"$translucent" 1
+}

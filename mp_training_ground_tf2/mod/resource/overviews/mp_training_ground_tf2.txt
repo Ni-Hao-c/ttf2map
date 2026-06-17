@@ -1,0 +1,15 @@
+"mp_training_ground_tf2"
+{
+	assets
+	{
+		minimap  overviews/mp_training_ground_tf2
+	}
+
+	pos_x -4950
+	pos_y 5000
+	scale 10
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

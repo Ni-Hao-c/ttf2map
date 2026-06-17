@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$decalscale" ".025"
+    "$decal" "1"
+    "$basetexture" "Models\vehicle\paladin\vehicle_paladin_decals_col"
+}

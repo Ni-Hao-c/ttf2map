@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\signs\sign_ai_path_col"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

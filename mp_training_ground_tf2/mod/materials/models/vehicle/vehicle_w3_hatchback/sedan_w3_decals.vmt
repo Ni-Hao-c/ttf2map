@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$decalscale" ".025"
+    "$decal" "1"
+    "$basetexture" "models\vehicle\vehicle_w3_hatchback\sedan_w3_decals_col"
+}

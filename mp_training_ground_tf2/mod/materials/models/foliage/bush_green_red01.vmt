@@ -1,0 +1,5 @@
+"Basic"
+{
+    "$basetexture" "models\foliage\bush_green_red01_mip0"
+    "$alphatest" "1"
+}

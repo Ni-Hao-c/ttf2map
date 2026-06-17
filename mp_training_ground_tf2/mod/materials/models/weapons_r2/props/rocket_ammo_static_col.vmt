@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/weapons_r2/props/rocket_ammo_static_col"
+	"$translucent" 1
+}

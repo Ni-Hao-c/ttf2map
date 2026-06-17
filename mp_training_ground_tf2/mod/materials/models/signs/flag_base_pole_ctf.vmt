@@ -1,0 +1,6 @@
+Proxies
+{
+    "$decalscale" ".025"
+    "$decal" "1"
+    "$basetexture" "models\signs\flag_base_pole_ctf_col"
+}

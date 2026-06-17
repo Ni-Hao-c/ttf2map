@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\decal\sand_pile_overlay_col"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

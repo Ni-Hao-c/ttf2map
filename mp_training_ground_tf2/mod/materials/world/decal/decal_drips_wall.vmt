@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\decal\decal_drips_wall"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

@@ -1,0 +1,6 @@
+When: "SERVER"
+Scripts:
+[
+	mp/levels/mp_training_ground_tf2.nut
+	mp/levels/mp_training_ground_tf2_fd.nut
+]

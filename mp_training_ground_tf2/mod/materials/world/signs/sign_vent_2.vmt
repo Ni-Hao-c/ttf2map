@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\signs\sign_vent_1_col"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

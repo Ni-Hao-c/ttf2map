@@ -1,0 +1,5 @@
+"Basic"
+{
+    "$basetexture" "models\foliage\grass_tall_light_01_col"
+    "$alphatest" "1"
+}

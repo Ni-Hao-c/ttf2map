@@ -1,0 +1,5 @@
+"Basic"
+{
+    "$basetexture" "models\foliage\brute_wild_green_plant_mip0"
+    "$alphatest" "1"
+}

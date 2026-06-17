@@ -1,0 +1,5 @@
+"Basic"
+{
+    "$basetexture" "models\foliage\tree_cliff_spindly_leaves_01_col_mip0"
+    "$alphatest" "1"
+}

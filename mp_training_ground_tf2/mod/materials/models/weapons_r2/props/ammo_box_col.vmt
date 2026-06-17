@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/weapons_r2/props/ammo_box_col"
+	"$translucent" 1
+}

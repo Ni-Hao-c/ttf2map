@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\decal\stencil_white_blend_col"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

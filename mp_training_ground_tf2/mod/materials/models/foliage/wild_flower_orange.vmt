@@ -1,0 +1,5 @@
+"Basic"
+{
+    "$basetexture" "models\foliage\wild_flower_orange_col"
+    "$alphatest" "1"
+}

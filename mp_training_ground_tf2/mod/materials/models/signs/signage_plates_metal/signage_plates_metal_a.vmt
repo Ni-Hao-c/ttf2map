@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$decalscale" ".025"
+    "$decal" "1"
+    "$basetexture" "models\signs\signage_plates_metal\signage_plates_metal_col"
+}

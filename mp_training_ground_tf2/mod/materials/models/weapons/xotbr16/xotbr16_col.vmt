@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/weapons/xotbr16/xotbr16_col"
+	"$translucent" 1
+}

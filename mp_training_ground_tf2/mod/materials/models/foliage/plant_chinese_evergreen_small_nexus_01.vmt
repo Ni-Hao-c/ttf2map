@@ -1,0 +1,5 @@
+"Basic"
+{
+    "$basetexture" "models\foliage\plant_chinese_evergreen_small_nexus_01_col"
+    "$alphatest" "1"
+}

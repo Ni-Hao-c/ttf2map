@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\signs\sign_restricted_access_col"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

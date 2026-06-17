@@ -1,0 +1,35 @@
+# Source Engine / Hammer Editor
+*.cache
+*.log
+*.dmp
+*.stackdump
+
+# Compiled assets (usually generated, not source)
+# Uncomment if these are build outputs:
+# *.vtf
+# *.mdl
+# *.vmt
+# *.vvd
+# *.phy
+# *.ani
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE / Editor
+.vs/
+.vscode/
+*.sln
+*.csproj
+*.user
+*.suo
+
+# Temporary files
+*.tmp
+*.temp

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" models/titans/atlas_imc_urb/titan_atlas_imc_chassi_b_urb_col"
+	"$translucent" 1
+}

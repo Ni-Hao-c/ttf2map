@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\decal\sign_warning_orange_col"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

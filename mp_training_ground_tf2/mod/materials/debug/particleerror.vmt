@@ -1,0 +1,7 @@
+"Basic"
+{
+	"$basetexture" "debug/particleerror"
+	"$translucent" 1
+	"$vertex color" 1
+	"$vertex alpha" 1
+}

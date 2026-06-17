@@ -1,0 +1,5 @@
+"Basic"
+{
+    "$basetexture" "models\foliage\grassblades_water_02_col"
+    "$alphatest" "1"
+}

@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\decal\scorch_decal_BIG_col"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

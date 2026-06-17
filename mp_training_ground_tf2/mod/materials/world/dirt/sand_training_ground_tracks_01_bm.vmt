@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$decalscale" ".025"
+    "$decal" "1"
+    "$basetexture" "world\dirt\sand_training_ground_01_col"
+}

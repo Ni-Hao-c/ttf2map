@@ -1,0 +1,5 @@
+"Basic"
+{
+    "$basetexture" "models\foliage\tree_desert_bark_01_col"
+    "$alphatest" "1"
+}

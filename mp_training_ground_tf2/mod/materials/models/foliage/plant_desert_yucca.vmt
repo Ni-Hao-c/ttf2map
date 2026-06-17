@@ -1,0 +1,5 @@
+"Basic"
+{
+    "$basetexture" "models\foliage\plant_desert_yucca_col"
+    "$alphatest" "1"
+}

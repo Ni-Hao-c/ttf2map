@@ -1,0 +1,7 @@
+"Basic"
+{
+    "$basetexture" "world\mud\titan_footprints_mud_01_col"
+
+    "$decalscale" ".025"
+    "$decal" "1"
+}

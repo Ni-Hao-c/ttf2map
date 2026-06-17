@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$decalscale" ".025"
+    "$decal" "1"
+    "$basetexture" "models\IMC_base\cargo_container_imc_decals_01_col"
+}

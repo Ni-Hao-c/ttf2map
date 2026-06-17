@@ -1,0 +1,24 @@
+{
+  "vgPath": "D:\\Game\\steams\\steamapps\\common\\Titanfall2\\R2Northstar\\mods\\mp_training_ground_tf2\\mod\\models\\door\\_visible_box_bunker_door_frame_96x90_20260607_200550\\v54\\bunker_door_frame_96x90.vg",
+  "objPath": "D:\\Game\\steams\\steamapps\\common\\Titanfall2\\R2Northstar\\mods\\mp_training_ground_tf2\\mod\\models\\door\\_visible_box_bunker_door_frame_96x90_20260607_200550\\bunker_door_frame_96x90.visible.obj",
+  "lodLevel": 0,
+  "totalMeshCount": 1,
+  "lodCount": 1,
+  "lodMeshOffset": 0,
+  "lodMeshCount": 1,
+  "meshes": [
+    {
+      "meshIndex": 0,
+      "flags": "0x2000a42",
+      "vertOffset": 0,
+      "vertCacheSize": 20,
+      "vertCount": 828,
+      "indexOffset": 0,
+      "indexCount": 1440,
+      "indexMin": 0,
+      "indexMax": 827,
+      "usesGlobalIndices": false,
+      "triCount": 480
+    }
+  ]
+}

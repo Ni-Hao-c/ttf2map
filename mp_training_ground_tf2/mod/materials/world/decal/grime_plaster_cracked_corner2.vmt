@@ -1,0 +1,6 @@
+"Basic"
+{
+    "$basetexture" "world\decal\grime_plaster_cracked_corner2"
+    "$decalscale" ".025"
+    "$decal" "1"
+}

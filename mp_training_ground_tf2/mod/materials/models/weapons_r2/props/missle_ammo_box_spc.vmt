@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/weapons_r2/props/missle_ammo_box_spc"
+	"$translucent" 1
+}

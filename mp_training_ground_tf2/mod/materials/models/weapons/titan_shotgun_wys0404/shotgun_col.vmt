@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/weapons/titan_shotgun_wys0404/shotgun_col"
+	"$translucent" 1
+}
