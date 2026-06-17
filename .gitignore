@@ -30,10 +30,8 @@ Desktop.ini
 *.user
 *.suo
 
-# Compiled map files (too large for GitHub)
-*.bsp
-*.bak
-*.nm
+# Large files managed by Git LFS (see .gitattributes)
+# *.bsp, *.bak, *.nm are tracked via LFS
 
 # Temporary files
 *.tmp
