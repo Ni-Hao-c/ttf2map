@@ -1,0 +1,21 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$surfaceprop" "rubbertire"
+	"$basetexture" "models\vehicle\forklift_imc\forklift_imc_wheel_col"
+	"$bumpmap" "models\vehicle\forklift_imc\forklift_imc_wheel_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\vehicle\forklift_imc\forklift_imc_wheel_spc"
+	"$reflectiontintshininess" "models\vehicle\forklift_imc\forklift_imc_wheel_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[0.172549019607843 0.172549019607843 0.172549019607843]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[0.172549 0.172549 0.172549]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\vehicle\forklift_imc\forklift_imc_wheel_exp"
+}

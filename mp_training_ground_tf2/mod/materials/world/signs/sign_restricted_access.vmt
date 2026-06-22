@@ -1,6 +1,28 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
 {
-    "$basetexture" "world\signs\sign_restricted_access_col"
-    "$decalscale" ".025"
-    "$decal" "1"
+	"$vertexcolor" "1"
+	"$vertcoloristint" "1"
+	"$vertexalpha" "1"
+	"$decal" "1"
+	"$decalscale" "0.25"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "world\signs\sign_restricted_access_col"
+	"$translucent" "1"
+	"$envmap" "env_cubemap"
+	// TF2_UNSUPPORTED $reflectiontint: "$reflectiontint" "world\signs\sign_restricted_access_spc"
+	// TF2_UNSUPPORTED $reflectiontintshininess: "$reflectiontintshininess" "world\signs\sign_restricted_access_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "-.8"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "world\signs\sign_restricted_access_exp"
+	// TF2_UNSUPPORTED $envmaplightscale: "$envmaplightscale" ".95"
 }

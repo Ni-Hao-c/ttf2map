@@ -1,4 +1,27 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\vehicle\goblin_dropship\goblin_dropship_1_col"
+	"$surfaceprop" "metal"
+	"$basetexture" "models\vehicle\goblin_dropship\goblin_dropship_1_col"
+	"$bumpmap" "models\vehicle\goblin_dropship\goblin_dropship_1_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\vehicle\goblin_dropship\goblin_dropship_1_spc"
+	"$reflectiontintshininess" "models\vehicle\goblin_dropship\goblin_dropship_1_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "1"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "3"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "2"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\vehicle\goblin_dropship\goblin_dropship_1_exp"
+	"$selfillum" "1"
+	"$selfillummask" "models\vehicle\goblin_dropship\goblin_dropship_1_ilm"
+	//Start of freehand input from reVaMpT
+		"$selfillumtint" "[ 2.5 2.5 2.5 ]"
+		// color tint - (allows overbright)
 }

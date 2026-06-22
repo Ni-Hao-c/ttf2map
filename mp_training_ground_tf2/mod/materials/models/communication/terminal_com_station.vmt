@@ -1,4 +1,31 @@
-Proxies
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\communication\terminal_com_station_col"
-}
+	"$surfaceprop" "metal"
+	"$basetexture" "models\communication\terminal_com_station_col"
+	"$bumpmap" "models\communication\terminal_com_station_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\communication\terminal_com_station_spc"
+	"$reflectiontintshininess" "models\communication\terminal_com_station_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "15"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "1"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2.8"
+	"$envmaptint" "[0.698039215686274 0.698039215686274 0.698039215686274]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[0.6980392 0.6980392 0.6980392]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\communication\terminal_com_station_exp"
+	"$selfillum" "1"
+	"$selfillummask" "models\communication\terminal_com_station_ilm"
+	//Start of freehand input from reVaMpT
+		Proxies
+		{
+		EntityIDLightColor
+		{
+		isDefault 1
+		resultvar $selfillumtint
+		}
+		}

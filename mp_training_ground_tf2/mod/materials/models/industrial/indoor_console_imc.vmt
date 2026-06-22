@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\industrial\indoor_console_imc"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\industrial\tiblisi_indoor_console_01_nml"
+}

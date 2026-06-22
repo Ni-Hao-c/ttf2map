@@ -1,0 +1,9 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$surfaceprop" "default"
+
+	"$basetexture" "models\IMC_base\control_monitor_arm_01_col"
+	"$bumpmap" "models\IMC_base\control_monitor_arm_01_nml"
+}

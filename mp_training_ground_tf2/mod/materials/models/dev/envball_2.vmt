@@ -1,4 +1,9 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "effects/black"
+	"$baseTexture" "effects/black"
+	"$envmap" "env_cubemap"
+//
+	"$envmaptint" "[.5 .5 1]"
 }
+
+

@@ -1,6 +1,11 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
 {
-    "$basetexture" "world\decal\scorch_decal_BIG_col"
-    "$decalscale" ".025"
-    "$decal" "1"
+	"$decal" "1"
+	"$decalscale" ".25"
+
+	"$surfaceprop" "plaster"
+	"$basetexture" "world\decal\scorch_decal_BIG_col"
+	"$translucent" "1"
 }

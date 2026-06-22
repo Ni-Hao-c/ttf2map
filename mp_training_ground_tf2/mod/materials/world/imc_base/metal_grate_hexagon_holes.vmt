@@ -1,0 +1,18 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$nocull" "1"
+	"$vertexcolor" "1"
+	// TF2_UNSUPPORTED $vertcolor_is_tint: "$vertcolor_is_tint" "1"
+	"$vertexalpha" "1"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\IMC_base\metal_grate_hexholes_col_mip0"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "models\IMC_base\metal_grate_hexagon_holes_nml"
+	"$alphatest" "1"
+	//Start of freehand input from reVaMpT//
+
+	
+	
+}

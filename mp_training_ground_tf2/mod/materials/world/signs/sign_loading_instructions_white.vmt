@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world/signs/sign_loading_instructions_white_col"
+	"$surfaceprop" "metalvent"
+}

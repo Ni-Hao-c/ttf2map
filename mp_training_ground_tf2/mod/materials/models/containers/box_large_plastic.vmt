@@ -1,0 +1,19 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$surfaceprop" "plastic_box"
+	"$basetexture" "models\containers\box_large_plastic_col"
+	"$bumpmap" "models\containers\box_large_plastic_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\containers\box_large_plastic_spc"
+	"$reflectiontintshininess" "models\containers\box_large_plastic_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "0"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\containers\box_large_plastic_exp"
+}

@@ -1,0 +1,24 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$vertexcolor" "1"
+	"$vertcoloristint" "1"
+	"$vertexalpha" "1"
+	"$surfaceprop" "metal"
+	"$basetexture" "models\angel_city\metal_support_beams_modular_col"
+	"$bumpmap" "models\angel_city\metal_support_beams_modular_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\angel_city\metal_support_beams_modular_spc"
+	"$reflectiontintshininess" "models\angel_city\metal_support_beams_modular_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\angel_city\metal_support_beams_modular_exp"
+}

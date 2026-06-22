@@ -1,4 +1,21 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\containers\pelican_case_ammobelt_col"
+	"$surfaceprop" "metal"
+	"$basetexture" "models\containers\pelican_case_ammobelt_col"
+	"$bumpmap" "models\containers\pelican_case_ammobelt_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\containers\pelican_case_ammobelt_spc"
+	"$reflectiontintshininess" "models\containers\pelican_case_ammobelt_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "-2"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\containers\pelican_case_ammobelt_exp"
 }

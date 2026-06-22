@@ -1,0 +1,27 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "world\metal\metal_grate_wallpanel_01_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\metal\metal_grate_wallpanel_01_nml"
+	"$envmap" "env_cubemap"
+	// TF2_UNSUPPORTED $reflectiontint: "$reflectiontint" "world\metal\metal_grate_wallpanel_01_spc"
+	// TF2_UNSUPPORTED $reflectiontintshininess: "$reflectiontintshininess" "world\metal\metal_grate_wallpanel_01_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "-1"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "2"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "world\metal\metal_grate_wallpanel_01_exp"
+	// TF2_UNSUPPORTED $envmaplightscale: "$envmaplightscale" ".95"
+	// TF2_UNSUPPORTED $detailnormal: "$detailnormal" "world\detail\metal_scratches_dm_nml"
+	// TF2_UNSUPPORTED $detailnormalmode: "$detailnormalmode" "1"
+	// TF2_UNSUPPORTED $detailscale: "$detailscale" "8"
+}

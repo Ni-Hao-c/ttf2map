@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$surfaceprop" "default"
+
+	"$basetexture" "models\utilities\fuel_line_white01_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "models\utilities\fuel_line_white01_nml"
+	"$envmap" "env_cubemap"
+	// TF2_UNSUPPORTED $envmapmask: "$envmapmask" "models\utilities\fuel_line_white01_spc"
+	// TF2_UNSUPPORTED $envmapmaskcolor: "$envmapmaskcolor" "1"
+	// TF2_UNSUPPORTED $fresnelranges: "$fresnelranges" "[.2 .2 .5]"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	"$envmaptint" "[0.8 0.8 0.8]"
+	// TF2_UNSUPPORTED $envmapblur: "$envmapblur" "models\utilities\fuel_line_white01_exp"
+}

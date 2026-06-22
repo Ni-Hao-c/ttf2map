@@ -1,4 +1,33 @@
 "UnlitTwoTexture"
 {
-    "$basetexture" "effects\caustic_water_01_alpha"
+	"$nocull" "1"
+	"$nodecal" "1"
+	"$allowoverbright" 1
+	"$vertcoloristint" "1"
+	"$godray" "1"
+	"$godrayMinFadeDist" "100"
+	"$godrayMaxFadeDist" "200"
+	"$no_fullbright" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$translucent" 1
+	"$color2" "[2 2 2]"
+	"$basetexture" "effects\caustic_water_01_alpha"
+	"$texture2" "effects\caustic_water_01_alpha"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" .1
+			"texturescrollangle" 60
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .2
+			"texturescrollangle" -20
+		}
+	}
 }

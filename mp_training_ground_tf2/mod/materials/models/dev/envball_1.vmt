@@ -1,4 +1,17 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "effects\black"
+	"$surfaceprop" "metal"
+	"$basetexture" "effects\black"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "effects\white"
+	// TF2_UNSUPPORTED $fresnelranges: "$fresnelranges" "[.1 10 1]"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "0"
+	"$envmaptint" "[0.862745098039216 0.294117647058824 0.294117647058824]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "-3"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" ".25"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 0.6431373 0.6431373]"
+	// TF2_UNSUPPORTED $shininessoverridevalue: "$shininessoverridevalue" "50"
 }

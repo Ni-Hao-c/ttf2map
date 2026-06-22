@@ -1,0 +1,20 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$surfaceprop" "metalpanel"
+	"$basetexture" "models\industrial\gas_generator_col"
+	"$bumpmap" "models\industrial\gas_generator_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\industrial\gas_generator_spc"
+	"$reflectiontintshininess" "models\industrial\gas_generator_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "0"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2.5"
+	"$envmaptint" "[0.75 0.75 0.75]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "1.5"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\industrial\gas_generator_exp"
+}

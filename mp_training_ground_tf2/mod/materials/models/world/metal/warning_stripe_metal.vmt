@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "world\metal\warning_stripe_metal_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "world\metal\warning_stripe_metal_nml"
+}

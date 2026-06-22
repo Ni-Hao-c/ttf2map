@@ -1,4 +1,6 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "world\utility\hydraulic_hose_01_col"
+	"$basetexture" "world\utility\hydraulic_hose_01_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "world\utility\hydraulic_hose_01_nml"
 }

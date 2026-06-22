@@ -1,0 +1,12 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$nocull" "1"
+
+	"$surfaceprop" "Metal_Box"
+	"$basetexture" "world\utility\wire_wall_hanging_col"
+	"$bumpmap" "world\utility\wire_wall_hanging_nml"
+	"$alphatest" "1"
+	// TF2_UNSUPPORTED $detailscale: "$detailscale" "8"
+}

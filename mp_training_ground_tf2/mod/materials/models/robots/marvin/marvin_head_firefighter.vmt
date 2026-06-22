@@ -1,4 +1,23 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\robots\marvin\marvin_head_firefighter_col"
+	"$surfaceprop" "metal"
+	"$basetexture" "models\robots\marvin\marvin_head_firefighter_col"
+	"$bumpmap" "models\robots\marvin\marvin_head_b_glass_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\robots\marvin\marvin_head_b_spc"
+	"$reflectiontintshininess" "models\robots\marvin\marvin_head_b_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "8"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "3"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\robots\marvin\marvin_head_b_exp"
+	"$selfillum" "1"
+	"$selfillummask" "models\robots\marvin\marvin_head_b_ilm"
 }

@@ -1,0 +1,11 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"Basic"
+{
+
+	"$surfaceprop" "dirt"
+	"$basetexture" "models\vistas\boneyard\boneyard_sky_col"
+	//Start of freehand input from reVaMpT
+		"$allowoverbright" 1
+		"$color2" "[1.5 1.5 1.5]"
+}

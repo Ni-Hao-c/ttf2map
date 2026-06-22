@@ -1,4 +1,21 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\industrial\tool_chest2_col"
+	"$surfaceprop" "metal"
+	"$basetexture" "models\industrial\tool_chest2_col"
+	"$bumpmap" "models\industrial\tool_chest2_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\industrial\tool_chest2_spc"
+	"$reflectiontintshininess" "models\industrial\tool_chest2_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1.1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "1.23"
+	"$envmaptint" "[0.7 0.7 0.7]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\industrial\tool_chest2_exp"
 }

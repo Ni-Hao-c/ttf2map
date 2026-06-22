@@ -1,4 +1,5 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "world\dev\dev_grey_512"
+	"$basetexture" "world\dev\dev_grey_512"
+	"$surfaceprop" "default"
 }

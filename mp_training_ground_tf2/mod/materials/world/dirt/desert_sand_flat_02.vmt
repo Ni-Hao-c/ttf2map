@@ -1,0 +1,27 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+
+	"$surfaceprop" "sand"
+	"$basetexture" "world\dirt\desert_sand_flat_02_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\dirt\desert_sand_flat_02_nml"
+	"$envmap" "env_cubemap"
+	// TF2_UNSUPPORTED $reflectiontint: "$reflectiontint" "world\dirt\desert_sand_flat_02_spc"
+	// TF2_UNSUPPORTED $reflectiontintshininess: "$reflectiontintshininess" "world\dirt\desert_sand_flat_02_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "3.5"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.72"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "0"
+	"$envmaptint" "[0.16156862745098 0.0619607843137255 0]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" ".25"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "world\dirt\desert_sand_flat_02_exp"
+	// TF2_UNSUPPORTED $envmaplightscale: "$envmaplightscale" ".95"
+	// TF2_UNSUPPORTED $detailnormal: "$detailnormal" "world\detail\sand_mud_beach_01_dm_nml"
+	// TF2_UNSUPPORTED $detailnormalmode: "$detailnormalmode" "1"
+	// TF2_UNSUPPORTED $detailscale: "$detailscale" "8"
+}

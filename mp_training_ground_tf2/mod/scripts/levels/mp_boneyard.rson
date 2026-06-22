@@ -1,0 +1,12 @@
+When: "SERVER || CLIENT"
+Scripts:
+[
+	mp/levels/sh_boneyard.nut
+]
+
+When: "SERVER"
+Scripts:
+[
+	mp/levels/mp_boneyard.nut
+	mp/levels/mp_boneyard_fd.nut
+]

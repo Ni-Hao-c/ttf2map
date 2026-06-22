@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$surfaceprop" "metal"
+	"$basetexture" "models\weapons_r2\props\rocket_ammo_static_col"
+	"$bumpmap" "models\weapons_r2\props\rocket_ammo_static_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\weapons_r2\props\rocket_ammo_static_spc"
+	"$reflectiontintshininess" "models\weapons_r2\props\rocket_ammo_static_spc"
+	"$envmaptint" "[1.5 1.5 1.5]"
+}

@@ -1,4 +1,22 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
 {
-    "$basetexture" "world\metal\metal_green_panels_IMC_01_col"
+
+	"$surfaceprop" "default"
+	"$basetexture" "world\metal\metal_green_panels_IMC_01_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\metal\metal_green_panels_IMC_01_nml"
+	"$envmap" "env_cubemap"
+	// TF2_UNSUPPORTED $reflectiontint: "$reflectiontint" "world\metal\metal_green_panels_IMC_01_spc"
+	// TF2_UNSUPPORTED $reflectiontintshininess: "$reflectiontintshininess" "world\metal\metal_green_panels_IMC_01_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "world\metal\metal_green_panels_IMC_01_exp"
 }

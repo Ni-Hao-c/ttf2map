@@ -1,4 +1,6 @@
-"Basic"
+"LightmappedGeneric"
 {
-    "$basetexture" "world\metal\metal_trim_panels_yellow_stripe_01_col"
+	"$basetexture" "world\metal\metal_trim_panels_yellow_stripe_01_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\metal\metal_trim_panels_yellow_stripe_01_nml"
+	"$surfaceprop" "metal"
 }

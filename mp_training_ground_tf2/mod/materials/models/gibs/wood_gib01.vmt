@@ -1,4 +1,9 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\gibs\wood_gib01_col"
+	"$surfaceprop" "default"
+
+	"$basetexture" "models\gibs\wood_gib01_col"
+	"$bumpmap" "models\gibs\wood_gib01_nml"
 }

@@ -1,0 +1,22 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$surfaceprop" "metal"
+	"$basetexture" "models\IMC_base\bulk_head_footer_imc_01_col"
+	"$bumpmap" "models\IMC_base\bulk_head_footer_imc_01_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\IMC_base\bulk_head_footer_imc_01_spc"
+	"$reflectiontintshininess" "models\IMC_base\bulk_head_footer_imc_01_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[0.7 0.7 0.7]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "1.5"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\IMC_base\bulk_head_footer_imc_01_exp"
+}

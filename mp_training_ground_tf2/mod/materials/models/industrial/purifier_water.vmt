@@ -1,0 +1,20 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$surfaceprop" "metal"
+	"$basetexture" "models\industrial\purifier_water_col"
+	"$bumpmap" "models\industrial\purifier_water_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\industrial\purifier_water_spc"
+	"$reflectiontintshininess" "models\industrial\purifier_water_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "0"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2.27"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "1.25"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\industrial\purifier_water_exp"
+}

@@ -1,0 +1,23 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$surfaceprop" "default"
+	"$basetexture" "models\creatures\flyer\flyer_head_col"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\creatures\flyer\flyer_head_spc"
+	"$reflectiontintshininess" "models\creatures\flyer\flyer_head_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "12"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[1.2 1.2 1.2]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "1.5"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\creatures\flyer\flyer_head_exp"
+	//Start of freehand input from reVaMpT
+		// TF2_UNSUPPORTED $lightwarptexture: "$lightwarptexture" "Models\creatures\flyer\flyer_lightwarp_red"
+}

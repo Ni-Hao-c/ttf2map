@@ -1,0 +1,27 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+
+	"$surfaceprop" "metalpanel"
+	"$basetexture" "world\metal\floating_wall_panel_garage_02_dark_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\metal\floating_wall_panel_garage_02_dark_nml"
+	"$envmap" "env_cubemap"
+	// TF2_UNSUPPORTED $reflectiontint: "$reflectiontint" "world\metal\floating_wall_panel_garage_02_dark_spc"
+	// TF2_UNSUPPORTED $reflectiontintshininess: "$reflectiontintshininess" "world\metal\floating_wall_panel_garage_02_dark_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1.5"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2.33"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "-.8"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "1.5"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "world\metal\floating_wall_panel_garage_02_dark_exp"
+	// TF2_UNSUPPORTED $envmaplightscale: "$envmaplightscale" ".95"
+	// TF2_UNSUPPORTED $detailnormal: "$detailnormal" "world\detail\metal_scuffed_dm_nml"
+	// TF2_UNSUPPORTED $detailnormalmode: "$detailnormalmode" "1"
+	// TF2_UNSUPPORTED $detailscale: "$detailscale" "6"
+}

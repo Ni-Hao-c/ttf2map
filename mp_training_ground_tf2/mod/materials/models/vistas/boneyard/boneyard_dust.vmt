@@ -1,0 +1,28 @@
+"Basic"
+{
+	"$basetexture" "models\vistas\boneyard\boneyard_dust_col"
+	"$surfaceprop" "default"
+
+	"$alphatest"   1
+	"$alpha"       1
+	"$nocull"      1
+	"$vertexalpha" 1
+	"$translucent" 1
+
+	"$additive" 1
+
+
+	"Proxies"
+	{
+		
+		"TextureScroll"
+               {
+                       "texturescrollvar" "$baseTextureTransform"
+                       "texturescrollrate" ".025"
+                       "texturescrollangle" "0"
+               }
+		
+
+}
+	
+}

@@ -1,4 +1,9 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\vehicle\paladin\vehicle_paladin_underside_col"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\vehicle\paladin\vehicle_paladin_underside_col"
+	"$bumpmap" "models\vehicle\paladin\vehicle_paladin_underside_nml"
 }

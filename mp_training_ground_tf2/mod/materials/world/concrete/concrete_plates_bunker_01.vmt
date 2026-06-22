@@ -1,4 +1,25 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
 {
-    "$basetexture" "world\concrete\concrete_plates_bunker_01_col"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+
+	"$surfaceprop" "concrete"
+	"$basetexture" "world\concrete\concrete_plates_bunker_01_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\concrete\concrete_plates_bunker_01_nml"
+	"$envmap" "env_cubemap"
+	// TF2_UNSUPPORTED $reflectiontint: "$reflectiontint" "world\concrete\concrete_plates_bunker_01_spc"
+	// TF2_UNSUPPORTED $reflectiontintshininess: "$reflectiontintshininess" "world\concrete\concrete_plates_bunker_01_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "0"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" ".2"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "world\concrete\concrete_plates_bunker_01_exp"
 }

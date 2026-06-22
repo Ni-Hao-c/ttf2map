@@ -1,0 +1,46 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+
+	"$surfaceprop" "sand"
+	"$basetexture" "world\dirt\desert_sand_01_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\dirt\desert_sand_01_nml"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" ".1"
+	// TF2_UNSUPPORTED $reflectiontint: "$reflectiontint" "world\dirt\desert_sand_01_spc"
+	// TF2_UNSUPPORTED $reflectiontintshininess: "$reflectiontintshininess" "world\dirt\desert_sand_01_spc"
+	// TF2_UNSUPPORTED $envmapSharpnessBias: "$envmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "3"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "3"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "world\dirt\desert_sand_01_exp"
+	// TF2_UNSUPPORTED $envmapLightScale: "$envmapLightScale" ".95"
+	// TF2_UNSUPPORTED $detailscale: "$detailscale" "8"
+	// TF2_UNSUPPORTED $detailnormal: "$detailnormal" "world\detail\sand_mud_beach_01_dm_nml"
+	// TF2_UNSUPPORTED $detailnormalmode: "$detailnormalmode" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.5 0.3490196 0.3039216]"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	
+
+	// TF2_UNSUPPORTED $surfaceprop2: "$surfaceprop2" "sand"
+	// TF2_UNSUPPORTED $basetexture2: "$basetexture2" "world\dirt\desert_sand_flat_02_col"
+	// TF2_UNSUPPORTED $bumpmap2: "$bumpmap2" "world\dirt\desert_sand_flat_02_nml"
+	// TF2_UNSUPPORTED $specularboost2: "$specularboost2" ".25"
+	// TF2_UNSUPPORTED $reflectiontint2: "$reflectiontint2" "world\dirt\desert_sand_flat_02_spc"
+	// TF2_UNSUPPORTED $reflectiontintshininess2: "$reflectiontintshininess2" "world\dirt\desert_sand_flat_02_spc"
+	// TF2_UNSUPPORTED $fresnelamount2: "$fresnelamount2" "1"
+	// TF2_UNSUPPORTED $fresnelintensity2: "$fresnelintensity2" "3.5"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness2: "$fresnelcurvesharpness2" "0.72"
+	//"$envmapLambertian" is using Slot1's value"
+	// TF2_UNSUPPORTED $shininess2: "$shininess2" "world\dirt\desert_sand_flat_02_exp"
+	// TF2_UNSUPPORTED $envmapLightScale2: "$envmapLightScale2" ".95"
+	//"$detailscale" is using Slot1's value"
+	// TF2_UNSUPPORTED $detailnormal2: "$detailnormal2" "world\detail\sand_mud_beach_01_dm_nml"
+	// TF2_UNSUPPORTED $detailnormalmode2: "$detailnormalmode2" "1"
+	// TF2_UNSUPPORTED $envmap2: "$envmap2" "env_cubemap"
+	// TF2_UNSUPPORTED $envmaptint2: "$envmaptint2" "[0.1615686 0.06196078 0]"
+	// TF2_UNSUPPORTED $speculartint2: "$speculartint2" "[1 1 1]"
+	
+}

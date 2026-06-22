@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world\metal\ground_trim_tracks_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\metal\ground_trim_tracks_nml"
+	"$surfaceprop" "metal"
+}

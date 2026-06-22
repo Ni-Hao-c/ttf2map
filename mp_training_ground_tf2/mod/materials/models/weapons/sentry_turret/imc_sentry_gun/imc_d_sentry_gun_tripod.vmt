@@ -1,4 +1,21 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\weapons\sentry_turret\imc_sentry_gun\imc_d_sentry_gun_tripod_col"
+	"$surfaceprop" "default"
+	"$basetexture" "models\weapons\sentry_turret\imc_sentry_gun\imc_d_sentry_gun_tripod_col"
+	"$bumpmap" "models\weapons\sentry_turret\imc_sentry_gun\imc_d_sentry_gun_tripod_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\weapons\sentry_turret\imc_sentry_gun\imc_d_sentry_gun_tripod_spc"
+	"$reflectiontintshininess" "models\weapons\sentry_turret\imc_sentry_gun\imc_d_sentry_gun_tripod_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "12"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "1"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "3"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\weapons\sentry_turret\imc_sentry_gun\imc_d_sentry_gun_tripod_exp"
 }

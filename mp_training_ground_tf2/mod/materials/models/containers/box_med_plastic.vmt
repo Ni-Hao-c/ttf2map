@@ -1,4 +1,6 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "models\containers\box_med_plastic_col"
+	"$basetexture" "models\containers\box_med_plastic_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\containers\box_med_plastic_nml"
 }

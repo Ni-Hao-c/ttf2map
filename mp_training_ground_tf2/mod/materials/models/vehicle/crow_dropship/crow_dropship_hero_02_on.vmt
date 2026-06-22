@@ -1,4 +1,32 @@
-Proxies
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\vehicle\crow_dropship\crow_dropship_hero_02_col"
+	"$surfaceprop" "metal"
+	"$basetexture" "models\vehicle\crow_dropship\crow_dropship_hero_02_col"
+	"$bumpmap" "models\vehicle\crow_dropship\crow_dropship_hero_02_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\vehicle\crow_dropship\crow_dropship_hero_02_spc"
+	"$reflectiontintshininess" "models\vehicle\crow_dropship\crow_dropship_hero_02_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1.5"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2.86"
+	"$envmaptint" "[0.996078431372549 0.768627450980392 0.572549019607843]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[0.9960784 0.7686275 0.572549]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\vehicle\crow_dropship\crow_dropship_hero_02_exp"
+	"$selfillum" "1"
+	"$selfillummask" "models\vehicle\crow_dropship\crow_dropship_hero_02_ilm"
+	//Start of freehand input from reVaMpT
+		Proxies
+		{
+			EntityIDLightColor
+			{
+				isDefault 1
+				resultvar $selfillumtint
+			}
+		}
 }

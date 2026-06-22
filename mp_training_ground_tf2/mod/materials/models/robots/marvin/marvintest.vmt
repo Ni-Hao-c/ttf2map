@@ -1,4 +1,4 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "models\robots\marvin\marvintest"
+	"$baseTexture" "models\robots\marvin\marvintest"
 }

@@ -16,6 +16,11 @@ struct {
 
 void function CodeCallback_MapInit()
 {
+	MegaTurretControl_RegisterSite( < -1443.77, -1975.52, 0.999 > )
+	MegaTurretControl_RegisterSite( < 1443.77, 1975.52, 0.999 > )
+	MegaTurretControl_RegisterSite( < 2604.23, -3137.52, 280.999 > )
+	MegaTurretControl_RegisterSite( < -2604.23, 3137.52, 280.999 > )
+	MegaTurretControl_Init()
 
 
 
@@ -65,6 +70,9 @@ void function SpawnMarvinsForRound()
 
 		thread MarvinJobThink( marvin )
 	}
+
+
+
 }
 
 void function CustomProp2( asset modelasset, vector origin, vector angles )
@@ -103,6 +111,5 @@ void function Map_EntitiesDidLoad()
 
 	
 }
-
 
 

@@ -1,0 +1,27 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$vertexcolor" "1"
+	"$vertcoloristint" "1"
+	"$vertexalpha" "1"
+
+	"$surfaceprop" "rock"
+	"$basetexture" "world\desert\bone_rib_01_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\desert\bone_rib_01_nml"
+	"$envmap" "env_cubemap"
+	// TF2_UNSUPPORTED $reflectiontint: "$reflectiontint" "world\desert\bone_rib_01_spc"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "0"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[0 0 0]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "0"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininessoverridevalue: "$shininessoverridevalue" "1"
+	// TF2_UNSUPPORTED $detailcolor: "$detailcolor" "world\desert\bone_detail_map_01_col"
+	// TF2_UNSUPPORTED $detailcolormode: "$detailcolormode" "1"
+	// TF2_UNSUPPORTED $detailnormal: "$detailnormal" "world\desert\bone_rib_01_nml"
+	// TF2_UNSUPPORTED $detailnormalmode: "$detailnormalmode" "1"
+	// TF2_UNSUPPORTED $detailscale: "$detailscale" "4"
+}

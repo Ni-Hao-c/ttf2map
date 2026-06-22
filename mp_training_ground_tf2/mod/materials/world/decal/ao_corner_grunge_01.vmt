@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world\decal\ao_corner_grunge_01_col"
+	"$surfaceprop" "default"
+	
+	"$decal" 1
+    "$decalscale" 0.25
+	
+	"$translucent" 1
+}

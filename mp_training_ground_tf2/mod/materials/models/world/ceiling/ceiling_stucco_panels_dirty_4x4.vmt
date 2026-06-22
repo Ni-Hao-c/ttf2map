@@ -1,4 +1,6 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "world/ceiling/ceiling_stucco_panels_dirty_4x4_col"
+	"$basetexture" "world/ceiling/ceiling_stucco_panels_dirty_4x4_col"
+	"$surfaceprop" "plaster"
+	"$bumpmap" "world/ceiling/ceiling_stucco_panels_clean_4x4_nml"
 }

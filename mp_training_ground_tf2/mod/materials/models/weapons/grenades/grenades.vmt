@@ -1,4 +1,22 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "Models\Weapons\grenades\grenades_col"
+	"$surfaceprop" "metal"
+	"$basetexture" "Models\Weapons\grenades\grenades_col"
+	"$bumpmap" "Models\Weapons\grenades\grenades_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "Models\Weapons\grenades\grenades_spc"
+	"$reflectiontintshininess" "Models\Weapons\grenades\grenades_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "10"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "1"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "3"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "1.5"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "Models\Weapons\grenades\grenades_exp"
 }

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\IMC_base\stencil_white_blend_col"
+	"$surfaceprop" "default"
+	
+   "$translucent" 1
+}

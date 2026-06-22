@@ -1,4 +1,25 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\robots\spactre\spectre_assault_loadout_col"
+	"$surfaceprop" "default"
+	"$basetexture" "models\robots\spactre\spectre_assault_loadout_col"
+	"$bumpmap" "models\robots\spactre\spectre_assault_loadout_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\robots\spactre\spectre_assault_loadout_spc"
+	"$reflectiontintshininess" "models\robots\spactre\spectre_assault_loadout_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "3"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2.21"
+	"$envmaptint" "[0.8 0.8 0.8]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "-.9"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "1.5"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\robots\spactre\spectre_assault_loadout_exp"
+	// TF2_UNSUPPORTED $rimlight: "$rimlight" "1"
+	// TF2_UNSUPPORTED $rimlighttint: "$rimlighttint" "[1 1 1]"
+	// TF2_UNSUPPORTED $rimlightintensity: "$rimlightintensity" "1.5"
 }

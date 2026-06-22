@@ -1,6 +1,7 @@
 "refract"
 {
-//	"$envmap" "env_cubemap"
+//
+	"$envmap" "env_cubemap"
 	"$normalmap" "effects/mosaic_anim_nml"
 
 	"$bluramount" 0
@@ -20,7 +21,8 @@
 			"animatedtexturevar" "$NORMALMAP" 
 			"animatedtextureframenumvar" "$bumpframe"
 			"animatedtextureframerate" 15
-		}
+	
+}
 		
 		//Animate the refract amount
 		"Sine"
@@ -29,6 +31,8 @@
 			"sinemin" 0
 			"sinemax" 0.05
 			"sineperiod" 5
-		}
-	}
+	
+}
+
+}
 }

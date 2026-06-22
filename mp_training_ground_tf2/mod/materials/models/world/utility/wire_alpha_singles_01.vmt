@@ -1,4 +1,9 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "world\utility\wire_alpha_singles_01_col"
+	"$basetexture" "world\utility\wire_alpha_singles_01_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "world\utility\wire_alpha_singles_01_nml"
+	"$alphatest" 1
+	"$alpha"				1
+	"$nocull"               1
 }

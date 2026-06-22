@@ -1,0 +1,14 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$nocull" "1"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\titans\titan_destruction\titan_damage_b_col"
+	"$bumpmap" "models\titans\titan_destruction\titan_damage_b_nml"
+	"$translucent" "1"
+	"$selfillum" "1"
+	"$selfillummask" "models\titans\titan_destruction\titan_destruction_b_glw"
+	"$selfillumtint" "[10 4.078432 4.078432]"
+}

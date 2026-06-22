@@ -1,4 +1,18 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "world\metal\metal_diamond_plate_col"
+	"$surfaceprop" "metalpanel"
+	"$basetexture" "world\metal\metal_diamond_plate_col"
+	"$bumpmap" "world\metal\metal_diamond_plate_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\metal\metal_diamond_plate_spc"
+	// TF2_UNSUPPORTED $fresnelranges: "$fresnelranges" "[2 .5 .25]"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "1.91"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "3"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "2"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "world\metal\metal_diamond_plate_exp"
 }

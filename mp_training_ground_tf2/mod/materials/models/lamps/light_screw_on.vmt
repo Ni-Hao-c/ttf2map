@@ -1,4 +1,11 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "models\lamps\light_screw_on_col"
+	"$basetexture" "models\lamps\light_screw_on_col"
+	"$bumpmap" "models\lamps\light_screw_on_nml"
+
+	"$selfillum" "1"
+
+	"$surfaceprop" "metal"
+
+
 }

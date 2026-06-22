@@ -1,4 +1,5 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "models\containers\styrofoam_box_dirty_col"
+	"$basetexture" "models\containers\styrofoam_box_dirty_col"
+	"$surfaceprop" "default"
 }

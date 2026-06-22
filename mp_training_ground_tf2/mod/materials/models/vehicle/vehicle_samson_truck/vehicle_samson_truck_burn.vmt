@@ -1,0 +1,21 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$surfaceprop" "metal"
+	"$basetexture" "models\vehicle\vehicle_samson_truck\vehicle_samson_truck_burn_col"
+	"$bumpmap" "models\vehicle\vehicle_samson_truck\vehicle_samson_truck_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\vehicle\vehicle_samson_truck\vehicle_samson_truck_burn_spc"
+	"$reflectiontintshininess" "models\vehicle\vehicle_samson_truck\vehicle_samson_truck_burn_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "1.77"
+	"$envmaptint" "[0.58 0.58 0.58]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "-.8"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\vehicle\vehicle_samson_truck\vehicle_samson_truck_exp"
+}

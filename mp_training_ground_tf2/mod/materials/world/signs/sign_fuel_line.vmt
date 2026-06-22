@@ -1,6 +1,12 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
 {
-    "$basetexture" "world\signs\sign_fuel_line_col"
-    "$decalscale" ".025"
-    "$decal" "1"
+	"$decal" "1"
+	"$decalscale" ".25"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "world\signs\sign_fuel_line_col"
+	"$translucent" "1"
+	// TF2_UNSUPPORTED $envmaplightscale: "$envmaplightscale" ".95"
 }

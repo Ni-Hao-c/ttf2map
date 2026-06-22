@@ -1,4 +1,9 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
 {
-    "$basetexture" "world\concrete\cement_ruined_chunk_01_col"
+
+	"$surfaceprop" "concrete"
+	"$basetexture" "world\concrete\cement_ruined_chunk_01_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\concrete\cement_ruined_chunk_01_nml"
 }

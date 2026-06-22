@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$surfaceprop" "metal"
+	"$basetexture" "models\IMC_base\pod_door_hangar_IMC_01_col"
+	"$bumpmap" "models\IMC_base\pod_door_hangar_IMC_01_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\IMC_base\pod_door_hangar_IMC_01_spc"
+	"$reflectiontintshininess" "IMC_base\pod_door_hangar_IMC_01_spc"
+	"$envmaptint" "[1.5 1.5 1.5]"
+}

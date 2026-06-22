@@ -1,4 +1,12 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\vehicle\straton\gunship_IMC_01_col"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\vehicle\straton\gunship_IMC_01_col"
+	"$bumpmap" "models\vehicle\straton\gunship_IMC_01_nml"
+	"$selfillum" "1"
+	"$selfillummask" "models\vehicle\straton\gunship_IMC_01_ilm"
+	"$selfillumtint" "[2.5 2.5 2.5]"
 }

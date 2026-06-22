@@ -1,6 +1,12 @@
-"Basic"
+"LightmappedGeneric"
 {
-    "$basetexture" "world/decal/decals_grime_drips_05_col"
-    "$decalscale" ".025"
-    "$decal" "1"
+	"$basetexture" "world/decal/decals_grime_drips_05_col"
+	"$surfaceprop" "default"
+	
+   "$vertexcolor" "1"
+   "$vertexalpha" "1"
+   "$translucent" 1
+   "$decal" 1
+   "$decalscale" 0.25
+   	"$alphatest" 1
 }

@@ -1,4 +1,6 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "models\lamps\light_hanging_parking_col"
+	"$basetexture" "models\lamps\light_hanging_parking_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\lamps\light_hanging_parking_nml"
 }

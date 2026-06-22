@@ -1,4 +1,22 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\IMC_base\turret_shield_IMC_01_col"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$surfaceprop" "metal"
+	"$basetexture" "models\IMC_base\turret_shield_IMC_01_col"
+	"$bumpmap" "models\IMC_base\turret_shield_IMC_01_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\IMC_base\turret_shield_IMC_01_spc"
+	"$reflectiontintshininess" "models\IMC_base\turret_shield_IMC_01_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "0"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[1.5 1.5 1.5]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "1"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "3.5"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\IMC_base\turret_shield_IMC_01_exp"
 }

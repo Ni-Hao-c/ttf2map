@@ -1,0 +1,31 @@
+"LightmappedGeneric"
+{
+	// ARTIST TWEAKABLES
+
+	"$basetexture" "effects/white"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\windows\glass_wall_01_nml"
+	"$color2" "[.61 .66 .64]"
+	"$alpha" ".5"
+	//Material to swap in when func_breakable_surf is damaged
+	// TF2_UNSUPPORTED $crackmaterial: "$crackmaterial" "world\windows\glass_shiny_shattered"
+
+
+
+	// NON-TWEAKABLES
+
+	//Cheat the mappng size AND create better thumbnail
+	"%tooltexture" "world\dev\dev_glass_1024x1024"
+	// TF2_UNSUPPORTED %keywords: "%keywords" "shatter"
+
+	"$envmap" "env_cubemap"
+	//"$envmaplightscale" ".1"
+	//"$fresnelranges" "[0 0 1]"
+	//"$envmapfresnel" "1"
+
+	"$translucent" 1
+	"$nocull" 1
+
+	"$allowDiffuseModulation" 1
+
+	"$surfaceprop" "glass_breakable"
+}

@@ -1,4 +1,6 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "models\containers\buckle_col"
+	"$basetexture" "models\containers\buckle_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\containers\buckle_nml"
 }

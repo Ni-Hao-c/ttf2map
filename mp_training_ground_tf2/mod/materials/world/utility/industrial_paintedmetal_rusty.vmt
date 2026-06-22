@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world\utility\industrial_paintedmetal_rusty_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\utility\industrial_paintedmetal_rusty_nml"
+	"$surfaceprop" "Metal_Box"
+}

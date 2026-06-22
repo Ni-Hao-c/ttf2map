@@ -1,4 +1,12 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "Models\robots\marvin\marvin_head_a_col"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "Models\robots\marvin\marvin_head_a_col"
+	"$bumpmap" "Models\robots\marvin\marvin_head_a_nml"
+	// TF2_UNSUPPORTED $rimlight: "$rimlight" "1"
+	// TF2_UNSUPPORTED $rimlighttint: "$rimlighttint" "[1 1 1]"
+	// TF2_UNSUPPORTED $rimlightintensity: "$rimlightintensity" "1"
 }

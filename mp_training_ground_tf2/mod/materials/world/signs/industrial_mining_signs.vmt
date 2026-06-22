@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world\signs\industrial_mining_signs_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\signs\industrial_mining_signs_nml"
+	"$surfaceprop" "metalvent"
+}

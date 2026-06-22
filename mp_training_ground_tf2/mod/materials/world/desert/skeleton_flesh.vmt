@@ -1,0 +1,31 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$vertexcolor" "1"
+	"$vertcoloristint" "1"
+	"$vertexalpha" "1"
+
+	"$surfaceprop" "flesh"
+	"$basetexture" "world\desert\skeleton_flesh_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\desert\skeleton_flesh_nml"
+	"$envmap" "env_cubemap"
+	// TF2_UNSUPPORTED $reflectiontint: "$reflectiontint" "world\desert\skeleton_flesh_spc"
+	// TF2_UNSUPPORTED $reflectiontintshininess: "$reflectiontintshininess" "world\desert\skeleton_flesh_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "-2"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "world\desert\skeleton_flesh_exp"
+	// TF2_UNSUPPORTED $envmaplightscale: "$envmaplightscale" ".95"
+	// TF2_UNSUPPORTED $detailcolor: "$detailcolor" "world\desert\flesh_detail_map_01_col"
+	// TF2_UNSUPPORTED $detailcolormode: "$detailcolormode" "1"
+	// TF2_UNSUPPORTED $detailnormal: "$detailnormal" "world\desert\flesh_detail_map_01_nml"
+	// TF2_UNSUPPORTED $detailnormalmode: "$detailnormalmode" "1"
+	// TF2_UNSUPPORTED $detailscale: "$detailscale" "8"
+}

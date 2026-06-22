@@ -1,0 +1,27 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$surfaceprop" "default"
+	"$basetexture" "models\creatures\flyer\flyer_eye_col"
+	"$bumpmap" "models\creatures\flyer\flyer_eye_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\creatures\flyer\flyer_eye_spc"
+	"$reflectiontintshininess" "models\creatures\flyer\flyer_eye_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "12"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[0.588235294117647 0.588235294117647 0.588235294117647]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[0.5882353 0.5882353 0.5882353]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\creatures\flyer\flyer_eye_exp"
+	// TF2_UNSUPPORTED $rimlight: "$rimlight" "1"
+	// TF2_UNSUPPORTED $rimlighttint: "$rimlighttint" "[1 1 1]"
+	// TF2_UNSUPPORTED $rimlightintensity: "$rimlightintensity" "1"
+	"$selfillum" "1"
+	"$selfillummask" "models\creatures\flyer\flyer_eye_ilm"
+	"$selfillumtint" "[0.9098039 0.8078431 0.6078432]"
+}

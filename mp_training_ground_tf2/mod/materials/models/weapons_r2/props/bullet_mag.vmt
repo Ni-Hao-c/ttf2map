@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$surfaceprop" "metal"
+	"$basetexture" "models\weapons_r2\props\bullet_mag_col"
+	"$bumpmap" "models\weapons_r2\props\bullet_mag_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\weapons_r2\props\bullet_mag_spc"
+	"$reflectiontintshininess" "models\weapons_r2\props\bullet_mag_spc"
+	"$envmaptint" "[1.5 1.5 1.5]"
+}

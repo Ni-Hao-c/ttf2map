@@ -1,0 +1,21 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$surfaceprop" "metal"
+	"$basetexture" "models\titans\atlas_redeye\titan_atlas_redeye_chassi_b_urb_col"
+	"$bumpmap" "models\titans\atlas_redeye\titan_atlas_redeye_chassi_b_urb_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\titans\atlas_redeye\titan_atlas_redeye_chassi_b_urb_spc"
+	"$reflectiontintshininess" "models\titans\atlas_redeye\titan_atlas_redeye_chassi_b_urb_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "20"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "1"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "3"
+	"$envmaptint" "[0.6 0.6 0.6]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\titans\atlas_redeye\titan_atlas_redeye_chassi_b_urb_exp"
+}

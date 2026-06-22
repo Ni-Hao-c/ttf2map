@@ -1,6 +1,21 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$decalscale" ".025"
-    "$decal" "1"
-    "$basetexture" "models\signs\sign_caution_boneyard_col"
+	"$surfaceprop" "metal"
+	"$basetexture" "models\signs\sign_caution_boneyard_col"
+	"$bumpmap" "models\signs\sign_caution_boneyard_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\signs\sign_caution_boneyard_spc"
+	"$reflectiontintshininess" "models\signs\sign_caution_boneyard_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "-.9"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\signs\sign_caution_boneyard_exp"
 }

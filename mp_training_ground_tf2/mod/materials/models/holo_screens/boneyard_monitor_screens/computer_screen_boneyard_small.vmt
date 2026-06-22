@@ -1,0 +1,25 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "glass"
+	"$basetexture" "models\holo_screens\boneyard_monitor_screens\computer_screen_boneyard_small_col"
+	"$translucent" "1"
+	"$selfillum" "1"
+	"$selfillummask" "models\holo_screens\boneyard_monitor_screens\computer_screen_boneyard_small_ilm"
+	"$selfillumtint" "[0.6 0.6 0.6]"
+	//Start of freehand input from reVaMpT
+		// TF2_UNSUPPORTED $matchColor: $matchColor      "[2 5 20]"
+		// TF2_UNSUPPORTED $mismatchColor: $mismatchColor "[20 5 2]"
+		Proxies
+		{
+		"UniformNoise"
+		{
+		"minVal" .5
+		"maxVal" 1
+		"resultVar" "$color"
+}
+	
+}
+}

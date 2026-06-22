@@ -1,4 +1,23 @@
-rimlight
+"VertexLitGeneric"
 {
-    "$basetexture" "Models\robots\marvin\marvin_screen_blank"
-}
+	"$baseTexture" "Models\robots\marvin\marvin_screen_blank"//
+	"$Bumpmap" "Models\robots\marvin\marvin_body_nml"//
+	"$bumpscale" ".01"//
+	"$selfillum" "1"//
+	"$halflambert" "1"
+	//	rimlight
+	// TF2_UNSUPPORTED $rimlight: "$rimlight" "1"//	rimlightexponent tightness of rim highlight
+	// TF2_UNSUPPORTED $rimlightexponent: "$rimlightexponent" "1"//	rimlightboost boost for ambient cube component of rim light
+	// TF2_UNSUPPORTED $rimlightboost: "$rimlightboost" "10"
+	// TF2_UNSUPPORTED $rimmask: "$rimmask" "1"		//"$BasemapAlphaPhongMask" "1"
+	//"$Phong" "1"//
+	"$PhongExponentTexture" "Models\robots\marvin\marvin_body_exp"//
+	"$phongexponent" ".25"//
+	"$phongboost" "10"//
+	"$phongfresnelranges" "[2 5 2]"//
+	"$phongalbedotint" "1"//
+	"$phongtint" "[.1 .1 .3]"		//"$envmap" "env_cubemap"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	$envmapFresnelMinMaxExp: "$envmapFresnelMinMaxExp" "[1 6 2]"
+	//"$envmaptint"     "[ .0005 .0005 .0005 ]"//
+	"$normalmapalphaenvmapmask" 1 }

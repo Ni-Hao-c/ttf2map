@@ -1,4 +1,4 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "models/vehicle/droppod_battery/drop_pod_col"
+	"$basetexture" "models/vehicle/droppod_battery/drop_pod_col"
 }

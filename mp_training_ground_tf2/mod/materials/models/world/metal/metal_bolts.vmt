@@ -1,4 +1,8 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "models\world\metal\metal_bolts_col"
+	"$basetexture" "models\world\metal\metal_bolts_col"
+	"$bumpmap" "models\world\metal\metal_bolts_nml"
+
+
+	"$surfaceprop" "metal"
 }

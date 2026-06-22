@@ -1,0 +1,11 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$nocull" "1"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "world\metal\scaffold_tech_alpha_col"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\metal\scaffold_tech_alpha_nml"
+	"$alphatest" "1"
+}

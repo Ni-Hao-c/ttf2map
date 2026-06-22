@@ -1,4 +1,22 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\IMC_base\cargo_container_imc_01_red_col"
+	"$surfaceprop" "metal"
+	"$basetexture" "models\IMC_base\cargo_container_imc_01_red_col"
+	"$bumpmap" "models\IMC_base\cargo_container_imc_01_blue_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\IMC_base\cargo_container_imc_01_blue_spc"
+	"$reflectiontintshininess" "models\IMC_base\cargo_container_imc_01_blue_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2.16"
+	"$envmaptint" "[0.65 0.65 0.65]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "1"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "1.25"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\IMC_base\cargo_container_imc_01_red_exp"
 }

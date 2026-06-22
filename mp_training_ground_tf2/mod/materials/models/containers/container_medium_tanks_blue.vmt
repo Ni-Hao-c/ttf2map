@@ -1,4 +1,21 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\containers\container_medium_tanks_blue_col"
+	"$surfaceprop" "metal"
+	"$basetexture" "models\containers\container_medium_tanks_blue_col"
+	"$bumpmap" "models\containers\container_medium_tanks_blue_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\containers\container_medium_tanks_blue_spc"
+	"$reflectiontintshininess" "models\containers\container_medium_tanks_blue_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "-.8"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\containers\container_medium_tanks_blue_exp"
 }

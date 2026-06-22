@@ -1,0 +1,9 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\IMC_base\metal_trim_IMC_01_col"
+	"$bumpmap" "models\IMC_base\metal_trim_IMC_01_nml"
+}

@@ -1,4 +1,5 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "world\concrete\concrete_core_stripes01"
+	"$basetexture" "world\concrete\concrete_core_stripes01"
+	"$surfaceprop" "default"
 }

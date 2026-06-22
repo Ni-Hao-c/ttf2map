@@ -1,4 +1,35 @@
 "UnlitTwoTexture"
 {
-    "$basetexture" "models/holo_screens/screen_bars_frame_col"
+	"$baseTexture" "models/holo_screens/screen_bars_frame_col"
+	"$texture2" "models/holo_screens/screen_bars_moving_beam_col"
+//
+	"$additive" 1
+	"$translucent" 1
+	"$color" "[1 1 1]"
+"$alphatest"			1
+	"Proxies"
+	{
+
+	
+		//Texture 2 Scrolling
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" -0.2
+			"texturescrollangle" 0
+	
+}
+		
+		
+		
+		//chevron flicker
+		"UniformNoise"
+		{
+			"minVal" .8
+			"maxVal" 1
+			"resultVar" "$alpha"
+	
+}
+
+}
 }

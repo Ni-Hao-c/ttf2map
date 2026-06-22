@@ -1,4 +1,13 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\IMC_base\metal_grate_hexholes_col_mip0"
+	"$vertexcolor" "1"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\IMC_base\metal_grate_hexholes_col_mip0"
+	"$bumpmap" "models\IMC_base\metal_grate_hexagon_holes_nml"
+	"$alphatest" "1"
+	//Start of freehand input from reVaMpT
+		// TF2_UNSUPPORTED $VERTCOLOR_IS_TINT: "$VERTCOLOR_IS_TINT" 1
 }

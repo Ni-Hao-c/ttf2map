@@ -9,7 +9,8 @@
  	"$model" 1
 	"$translucent" 1
 
-//	"$fadeoutonsilhouette" 1
+//
+	"$fadeoutonsilhouette" 1
 	"$bluramount" 1
 	"$refractamount" ".25"
 	"$refracttint" "[.8 .8 .8]"
@@ -39,13 +40,15 @@
 		{
 			"rate" 0.05
 			"resultVar" "$t1scroll[0]"
-		}
+	
+}
 		//NormalMap1 Horizontal movement speed passed to TextureTransform
 		"LinearRamp"
 		{
 			"rate" -.42
 			"resultVar" "$t1scroll[1]"
-		}
+	
+}
 		//Move NormalMap1 using horiz and vert speed
 		"TextureTransform"
 		{
@@ -53,7 +56,8 @@
 			"scaleVar" "$t1scale"
 			"rotateVar" "$t1rot"
 			"resultvar" "$bumptransform"
-		}
+	
+}
 
 		//---------------------------------------------------------------
 		//---------------------------------------------------------------	
@@ -62,13 +66,15 @@
 		{
 			"rate" 0
 			"resultVar" "$t2scroll[0]"
-		}
+	
+}
 		//NormalMap2 Horizontal movement speed passed to TextureTransform
 		"LinearRamp"
 		{
 			"rate" -0.5
 			"resultVar" "$t2scroll[1]"
-		}
+	
+}
 		//Move NormalMap2 using horiz and vert speed
 		"TextureTransform"
 		{
@@ -76,7 +82,9 @@
 			"scaleVar" "$t2scale"
 			"rotateVar" "$t2rot"
 			"resultvar" "$bumptransform2"
-		}
+	
+}
 		
-	}
+
+}
 }

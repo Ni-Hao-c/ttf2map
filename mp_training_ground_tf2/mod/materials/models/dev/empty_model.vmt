@@ -1,9 +1,7 @@
 "Basic"
 {
-	$surfaceprop "default"
-
-	$basetexture "effects\white"
-	alphatest 1
-	$alpha 0
-	
+	"$surfaceprop" "default"
+	"$basetexture" "effects\white"
+"$alphatest" 1
+	"$alpha" 0
 }

@@ -1,4 +1,6 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "models\characters\ally_fireteam\firefox_btr_head_a_urb_col"
+	"$basetexture" "models\characters\ally_fireteam\firefox_btr_head_a_urb_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\characters\ally_fireteam\firefox_btr_head_a_urb_nml"
 }

@@ -1,7 +1,9 @@
 {
     "Preload":
     {
-        "mp_training_ground_tf2.rpak": true
+        "mp_training_ground_tf2.rpak": true,
+        "mp_boneyard.rpak": true
+
     },
     "Aliases":
     {

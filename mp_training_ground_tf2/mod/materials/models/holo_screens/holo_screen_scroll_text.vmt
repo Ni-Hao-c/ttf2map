@@ -12,6 +12,8 @@
 			"textureScrollVar" "$basetexturetransform"
 			"textureScrollRate" .50
 			"textureScrollAngle" 90
-		}
-	}
+	
+}
+
+}
 }

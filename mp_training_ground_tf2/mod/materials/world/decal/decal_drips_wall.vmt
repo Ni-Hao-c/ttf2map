@@ -1,6 +1,8 @@
-"Basic"
+"LightmappedGeneric"
 {
-    "$basetexture" "world\decal\decal_drips_wall"
-    "$decalscale" ".025"
-    "$decal" "1"
+	"$basetexture" "world\decal\decal_drips_wall"
+	"$surfaceprop" "default"
+   "$translucent" 1
+   "$decal" 1
+   "$decalscale" 0.25	
 }

@@ -1,4 +1,20 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\gibs\metal_gibs01_col"
+	"$surfaceprop" "metalpanel"
+	"$basetexture" "models\gibs\metal_gibs01_col"
+	"$bumpmap" "models\gibs\metal_gibs01_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\gibs\metal_gibs01_spc"
+	"$reflectiontintshininess" "models\gibs\metal_gibs01_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "0"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[0 0 0]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "5"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\gibs\metal_gibs01_exp"
 }

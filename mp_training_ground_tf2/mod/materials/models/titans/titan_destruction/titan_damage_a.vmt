@@ -1,0 +1,10 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$nocull" "1"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\titans\titan_destruction\titan_damage_a_col"
+	"$alphatest" "1"
+}

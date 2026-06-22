@@ -1,0 +1,18 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"Basic"
+{
+	"$vertexcolor" "1"
+	"$vertcoloristint" "1"
+	"$vertexalpha" "1"
+	"$additive" "1"
+	"$nodecal" "1"
+	"%compilePassBullets" "1"
+	"$godray" "1"
+	"$godrayMinFadeDist" "30"
+	"$godrayMaxFadeDist" "1000"
+
+	"$surfaceprop" "asphalt"
+	"$basetexture" "world\atmosphere\atmosphere_cloud01_col"
+	"$translucent" "1"
+}

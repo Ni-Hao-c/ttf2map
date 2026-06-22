@@ -1,0 +1,12 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$decal" "1"
+	"$decalscale" ".25"
+
+	"$surfaceprop" "concrete"
+	"$basetexture" "world\decal\text_stencil_white_imc_col"
+	"$translucent" "1"
+	// TF2_UNSUPPORTED $envmaplightscale: "$envmaplightscale" ".95"
+}

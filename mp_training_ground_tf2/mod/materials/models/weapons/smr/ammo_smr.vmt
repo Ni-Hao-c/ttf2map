@@ -1,4 +1,24 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\weapons\smr\ammo_smr_col"
+	"$surfaceprop" "default"
+	"$basetexture" "models\weapons\smr\ammo_smr_col"
+	"$bumpmap" "models\weapons\smr\ammo_smr_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\weapons\smr\ammo_smr_spc"
+	"$reflectiontintshininess" "models\weapons\smr\ammo_smr_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "3"
+	"$envmaptint" "[0.533333333333333 0.533333333333333 0.533333333333333]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "1"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[0.5333334 0.5333334 0.5333334]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\weapons\smr\ammo_smr_exp"
+	"$selfillum" "1"
+	"$selfillummask" "models\weapons\smr\ammo_smr_ilm"
+	"$selfillumtint" "[2 0.2196078 0.2196078]"
 }

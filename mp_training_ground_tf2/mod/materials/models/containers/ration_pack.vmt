@@ -1,4 +1,6 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "models\containers\ration_pack_col"
+	"$basetexture" "models\containers\ration_pack_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\containers\ration_pack_nml"
 }

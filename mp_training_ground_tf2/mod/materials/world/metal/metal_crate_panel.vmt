@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world/metal/metal_crate_panel_col"
+	"$surfaceprop" "metal"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world/metal/metal_crate_panel_nml"
+}

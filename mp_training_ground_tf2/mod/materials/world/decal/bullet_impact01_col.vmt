@@ -1,6 +1,13 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
 {
-    "$basetexture" "world\decal\bullet_impact01_COL"
-    "$decalscale" ".025"
-    "$decal" "1"
+	"$decal" "1"
+	"$decalscale" ".25"
+
+	"$surfaceprop" "default"
+	"$basetexture" "world\decal\bullet_impact01_COL"
+	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\decal\bullet_impact01_NRM"
+	"$alphatest" "1"
+	// TF2_UNSUPPORTED $detailscale: "$detailscale" "8"
 }

@@ -1,4 +1,6 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "models\hardware\paint_containers_col"
+	"$basetexture" "models\hardware\paint_containers_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\hardware\paint_containers_nml"
 }

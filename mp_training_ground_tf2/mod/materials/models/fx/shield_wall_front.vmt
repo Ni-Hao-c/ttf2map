@@ -1,4 +1,46 @@
 "UnlitTwoTexture"
 {
-    "$basetexture" "models\titans\titan_ar_marker\titan_ar_marker_col"
+	"$surfaceprop" "default"
+	"$basetexture" "dev\noise_post"
+	"$texture2" "effects\tvscreen_noise001b"
+	"$vertexalpha" 1
+	"$model" "1"
+	"$alpha" 1
+	"$translucent" 1
+	"$additive" 1
+	"$layeralpha1" "1"
+	"$layeralpha2" "1"
+	"$addlayers" 1
+	"$fresnel" 1
+	"$fresnelsharpness1" 0
+	"$fresnelouterstrength1" 1
+	"$fresnelinnerstrength1" 10
+	"$fresnel2" 1
+	"$fresnelsharpness2" 1
+	"$fresnelouterstrength2" 2
+	"$fresnelinnerstrength2" 1
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" .25
+			"texturescrollangle" -90
+			"texturescale" 2
+		}
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 30
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" 10
+			"texturescrollangle" 88
+			"texturescale" .2
+		}
+	}
 }

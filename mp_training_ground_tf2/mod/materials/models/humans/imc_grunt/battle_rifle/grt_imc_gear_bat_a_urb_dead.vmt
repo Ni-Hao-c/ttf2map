@@ -1,0 +1,22 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$surfaceprop" "flesh"
+	"$basetexture" "models\humans\imc_grunt\battle_rifle\grt_imc_gear_bat_a_urb_col"
+	"$bumpmap" "models\humans\imc_grunt\battle_rifle\grt_imc_gear_bat_a_urb_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\humans\imc_grunt\battle_rifle\grt_imc_gear_bat_a_urb_spc"
+	"$reflectiontintshininess" "models\humans\imc_grunt\battle_rifle\grt_imc_gear_bat_a_urb_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "20"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.96"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2.83"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "1"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "1.2"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\humans\imc_grunt\battle_rifle\grt_imc_gear_bat_a_urb_exp"
+}

@@ -1,4 +1,18 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "world\doors\door_metal_silver_01_col"
+	"$surfaceprop" "metal"
+	"$basetexture" "world\doors\door_metal_silver_01_col"
+	"$bumpmap" "world\doors\door_metal_silver_01_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\doors\door_metal_silver_01_spc"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "0"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "1"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "5"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininessoverridevalue: "$shininessoverridevalue" "15"
 }

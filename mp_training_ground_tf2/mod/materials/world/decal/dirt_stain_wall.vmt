@@ -1,0 +1,11 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$decal" "1"
+	"$decalscale" ".25"
+
+	"$surfaceprop" "default"
+	"$basetexture" "world\decal\dirt_stain_wall_col"
+	"$translucent" "1"
+}

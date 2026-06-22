@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\IMC_base\decal_leak_small"
+	"$surfaceprop" "default"
+	
+   "$translucent" 1
+}

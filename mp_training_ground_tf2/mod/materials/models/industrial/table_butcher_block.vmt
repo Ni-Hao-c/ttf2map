@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\industrial\table_butcher_block_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\industrial\table_butcher_block_nml"
+}

@@ -1,4 +1,26 @@
 "Basic"
 {
-    "$basetexture" "models\vehicle\crow_dropship\crow_dropship_afterburner"
+	"$nodecal" "1"
+	"$additive" "1"
+	"$no_fullbright" 1
+	"$model" "1"
+	"$vertexalpha" "1"
+	"$translucent" "1"
+
+	"$basetexture" "models\vehicle\crow_dropship\crow_dropship_afterburner"
+
+	"$color" "[1 1 1]"
+		
+	"Proxies"
+	{
+		//flicker
+		"UniformNoise"
+		{
+			"minVal" 1.65
+			"maxVal" 1
+			"resultVar" "$color"
+	
+}
+
+}
 }

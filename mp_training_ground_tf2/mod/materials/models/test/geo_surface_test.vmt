@@ -1,4 +1,9 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\test\geo_surface_test_col"
+
+	"$surfaceprop" "boulder"
+	"$basetexture" "models\test\geo_surface_test_col"
+	"$bumpmap" "models\test\geo_surface_test_nml"
 }

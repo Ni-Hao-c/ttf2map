@@ -1,0 +1,24 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$surfaceprop" "default"
+	"$basetexture" "models\creatures\leviathan\leviathan_col"
+	"$bumpmap" "models\creatures\leviathan\leviathan_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\creatures\leviathan\leviathan_spc"
+	"$reflectiontintshininess" "models\creatures\leviathan\leviathan_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "1"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\creatures\leviathan\leviathan_exp"
+	// TF2_UNSUPPORTED $rimlight: "$rimlight" "1"
+	// TF2_UNSUPPORTED $rimlighttint: "$rimlighttint" "[1 1 1]"
+	// TF2_UNSUPPORTED $rimlightintensity: "$rimlightintensity" "1"
+}

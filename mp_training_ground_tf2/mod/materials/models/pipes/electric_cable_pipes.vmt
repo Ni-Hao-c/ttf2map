@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\pipes\electric_cable_pipes_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\pipes\electric_cable_pipes_nml"
+}

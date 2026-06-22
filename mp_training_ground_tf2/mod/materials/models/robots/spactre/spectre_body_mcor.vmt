@@ -1,4 +1,32 @@
-Proxies
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\robots\spactre\spectre_body_mcor_col"
-}
+	"$surfaceprop" "metal"
+	"$basetexture" "models\robots\spactre\spectre_body_mcor_col"
+	"$bumpmap" "models\robots\spactre\spectre_body_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\robots\spactre\spectre_body_mcor_spc"
+	"$reflectiontintshininess" "models\robots\spactre\spectre_body_mcor_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "3"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$envmaptint" "[0.8 0.8 0.8]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "-.9"
+	// TF2_UNSUPPORTED $specularboost: "$specularboost" "1.8"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\robots\spactre\spectre_body_exp"
+	"$selfillum" "1"
+	"$selfillummask" "models\robots\spactre\spectre_body_mcor_ilm"
+	//Start of freehand input from reVaMpT
+		Proxies
+		{
+		EntityIDLightColor
+		{
+		isDefault 1
+		resultvar $selfillumtint
+		}
+		}

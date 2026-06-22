@@ -1,6 +1,31 @@
-Proxies
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$decalscale" ".025"
-    "$decal" "1"
-    "$basetexture" "models\signs\flag_base_pole_ctf_col"
-}
+	"$surfaceprop" "metal"
+	"$basetexture" "models\signs\flag_base_pole_ctf_col"
+	"$bumpmap" "models\signs\flag_base_pole_ctf_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\signs\flag_base_pole_ctf_spc"
+	"$reflectiontintshininess" "models\signs\flag_base_pole_ctf_spc"
+	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
+	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
+	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "5"
+	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "1"
+	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
+	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2.85"
+	"$envmaptint" "[1 1 1]"
+	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
+	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
+	// TF2_UNSUPPORTED $shininess: "$shininess" "models\signs\flag_base_pole_ctf_exp"
+	"$selfillum" "1"
+	"$selfillummask" "models\signs\flag_base_pole_ctf_ilm"
+	//Start of freehand input from reVaMpT
+		Proxies
+		{
+		EntityIDLightColor
+		{
+		isDefault 1
+		resultvar $selfillumtint
+		}
+		}

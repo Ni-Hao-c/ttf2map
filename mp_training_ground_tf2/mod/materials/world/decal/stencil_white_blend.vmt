@@ -1,6 +1,14 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
 {
-    "$basetexture" "world\decal\stencil_white_blend_col"
-    "$decalscale" ".025"
-    "$decal" "1"
+	"$vertexcolor" "1"
+	// TF2_UNSUPPORTED $vertcolor_is_tint: "$vertcolor_is_tint" "1"
+	"$vertexalpha" "1"
+	"$decal" "1"
+	"$decalscale" "0.25"
+
+	"$surfaceprop" "concrete"
+	"$basetexture" "world\decal\stencil_white_blend_col"
+	"$translucent" "1"
 }
