@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\benches\bench_cafeteria_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\benches\bench_cafeteria_nml"
+}

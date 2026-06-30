@@ -8,5 +8,5 @@
 	"$surfaceprop" "metal"
 	"$basetexture" "world\signs\sign_fuel_line_col"
 	"$translucent" "1"
-	// TF2_UNSUPPORTED $envmaplightscale: "$envmaplightscale" ".95"
+	"$envmaplightscale" ".95"
 }

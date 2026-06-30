@@ -1,0 +1,45 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+
+	"$blendmodulatetexture" "world\zone_18\concrete\z18_concrete_slabs_01_bm"
+	"$surfaceprop" "concrete"
+	"$basetexture" "world\zone_18\concrete\z18_concrete_slabs_01_col"
+	"$bumpmap" "world\zone_18\concrete\z18_concrete_slabs_01_nml"
+	"$specularboost" ".5"
+	"$reflectiontint" "world\zone_18\concrete\z18_concrete_slabs_01_spc"
+	"$reflectiontintshininess" "world\zone_18\concrete\z18_concrete_slabs_01_spc"
+	"$reflectiontintcolor" "1"
+	"$envmapSharpnessBias" "-2"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "2"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapLambertian" "2"
+	"$shininess" "world\zone_18\concrete\z18_concrete_slabs_01_exp"
+	"$envmapLightScale" ".95"
+	"$detailscale" "8"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	"$speculartint" "[1 1 1]"
+	
+
+	"$surfaceprop2" "concrete"
+	"$basetexture2" "world\zone_18\concrete\z18_concrete_slabs_cracked_01_col"
+	"$bumpmap2" "world\zone_18\concrete\z18_concrete_slabs_cracked_01_nml"
+	"$specularboost2" ".5"
+	"$reflectiontint2" "world\zone_18\concrete\z18_concrete_slabs_cracked_01_spc"
+	"$reflectiontintshininess2" "world\zone_18\concrete\z18_concrete_slabs_cracked_01_spc"
+	"$reflectiontintcolor2" "1"
+	"$fresnelamount2" "1"
+	"$fresnelintensity2" "1"
+	"$fresnelcurvesharpness2" "0.01"
+	//"$envmapLambertian" is using Slot1's value"
+	"$shininess2" "world\zone_18\concrete\z18_concrete_slabs_cracked_01_exp"
+	"$envmapLightScale2" ".95"
+	//"$detailscale" is using Slot1's value"
+	"$envmap2" "env_cubemap"
+	"$envmaptint2" "[0.5 0.5 0.5]"
+	"$speculartint2" "[1 1 1]"
+	
+}

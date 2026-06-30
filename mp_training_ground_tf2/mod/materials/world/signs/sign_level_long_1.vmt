@@ -11,5 +11,5 @@
 	"$surfaceprop" "plaster"
 	"$basetexture" "world\signs\sign_level_long_1_col"
 	"$translucent" "1"
-	// TF2_UNSUPPORTED $envmaplightscale: "$envmaplightscale" ".95"
+	"$envmaplightscale" ".95"
 }

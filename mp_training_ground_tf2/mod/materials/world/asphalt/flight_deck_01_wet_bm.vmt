@@ -1,0 +1,43 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+
+	"$blendmodulatetexture" "world\asphalt\flight_deck_01_wet_bm"
+	"$surfaceprop" "asphalt"
+	"$basetexture" "world\asphalt\flight_deck_01_col"
+	"$bumpmap" "world\asphalt\flight_deck_01_nml"
+	"$specularboost" "1.25"
+	"$reflectiontint" "world\asphalt\flight_deck_01_spc"
+	"$reflectiontintshininess" "world\asphalt\flight_deck_01_spc"
+	"$reflectiontintcolor" "1"
+	"$envmapSharpnessBias" "0"
+	"$fresnelamount" "0"
+	"$fresnelintensity" "3"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapLambertian" "1.74"
+	"$shininess" "world\asphalt\flight_deck_01_exp"
+	"$detailscale" "8"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	"$speculartint" "[1 1 1]"
+	
+
+	"$surfaceprop2" "asphalt"
+	"$basetexture2" "world\asphalt\flight_deck_01_wet_col"
+	"$bumpmap2" "world\asphalt\flight_deck_01_nml"
+	"$specularboost2" "1.25"
+	"$reflectiontint2" "world\asphalt\flight_deck_01_wet_spc"
+	"$reflectiontintshininess2" "world\asphalt\flight_deck_01_wet_spc"
+	"$reflectiontintcolor2" "1"
+	"$fresnelamount2" "1"
+	"$fresnelintensity2" "3"
+	"$fresnelcurvesharpness2" "0.01"
+	//"$envmapLambertian" is using Slot1's value"
+	"$shininess2" "world\asphalt\flight_deck_01_wet_exp"
+	//"$detailscale" is using Slot1's value"
+	"$envmap2" "env_cubemap"
+	"$envmaptint2" "[1 1 1]"
+	"$speculartint2" "[1 1 1]"
+	
+}

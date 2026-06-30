@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\industrial\power_cable_casing_imc_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\industrial\power_cable_casing_nml"
+}

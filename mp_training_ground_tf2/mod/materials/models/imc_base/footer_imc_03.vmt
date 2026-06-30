@@ -7,6 +7,7 @@
 	"$surfaceprop" "metal"
 	"$basetexture" "models\IMC_base\footer_IMC_03_col"
 	"$bumpmap" "models\IMC_base\footer_IMC_03_nml"
-	//Start of freehand input from reVaMpT
-		// TF2_UNSUPPORTED $VERTCOLOR_IS_TINT: "$VERTCOLOR_IS_TINT" 1
+	//Start of freehand input from reVaMpT//
+
+	"$VERTCOLOR_IS_TINT" 1
 }

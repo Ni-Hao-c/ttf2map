@@ -1,4 +1,27 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
 {
-    "$basetexture" "world\metal\chain_link_IMC_01_col"
+	"$nocull" "1"
+	"%compilePassBullets" "1"
+
+	"$surfaceprop" "chainlink"
+	"$basetexture" "world\metal\chain_link_IMC_01_col"
+	"$bumpmap" "world\metal\chain_link_IMC_01_nml"
+	"$alphatest" "1"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\metal\chain_link_IMC_01_spc"
+	"$reflectiontintshininess" "world\metal\chain_link_IMC_01_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1.5"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "-1.5"
+	"$specularboost" "1.2"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "world\metal\chain_link_IMC_01_exp"
+	"$envmaplightscale" ".95"
 }

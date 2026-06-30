@@ -1,4 +1,6 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "world\metal\metal_park_post_col"
+	"$basetexture" "world\metal\metal_park_post_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "world\metal\metal_park_post_nml"
 }

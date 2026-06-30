@@ -1,0 +1,9 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$surfaceprop" "rubbertire"
+
+	"$basetexture" "models\vehicle\gremlin\gremlinwheels_col"
+	"$bumpmap" "models\vehicle\gremlin\gremlinwheels_nml"
+}

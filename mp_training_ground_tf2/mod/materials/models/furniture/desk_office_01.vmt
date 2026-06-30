@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\furniture\desk_0ffice_01_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\furniture\desk_0ffice_01_nml"
+}

@@ -1,0 +1,17 @@
+"UnlitTwoTexture"
+{
+	"$basetexture" "models/holo_screens/hammond_ogre01_col"
+	"$Texture2" "effects/dev_scanline_light"
+	"selfillum" "1"
+	"$selfillumtint" "[2 2 2]"
+	
+	"Proxies"
+	{
+		"TextureScroll"
+        {
+            "texturescrollvar" "$texture2transform"
+            "texturescrollrate" "8"
+			"texturescrollangle" "90"
+        }
+	}
+}

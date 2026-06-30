@@ -1,0 +1,22 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "glass"
+	"$basetexture" "world\windows\window_glass_cloudy_dirty_col"
+	"$bumpmap" "world\windows\window_glass_dirty_white_streaks01_nml"
+	"$translucent" "1"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\windows\window_glass_cloudy_dirty_spc"
+	"$reflectiontintshininess" "world\windows\window_glass_cloudy_dirty_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "0"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2.47"
+	"$envmaptint" "[1.1421568627451 1.25 1.20588235294118]"
+	"$EnvmapSharpnessBias" "0"
+	"$specularboost" "1.25"
+	"$speculartint" "[0.6588235 0.9960784 0.8588235]"
+	"$shininess" "world\windows\window_glass_cloudy_dirty_exp"
+}

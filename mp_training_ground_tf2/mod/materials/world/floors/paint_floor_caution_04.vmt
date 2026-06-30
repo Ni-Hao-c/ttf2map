@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world\floors\paint_floor_caution_04_col"
+	"$PhongExponentTexture" "world\floors\paint_floor_caution_04_exp"
+	"$bumpmap" "world\floors\paint_floor_caution_04_nml"
+	"$surfaceprop" "tile"
+	
+	"$vertexcolor" "1"
+    "$vertexalpha" "1"
+    "$translucent" 1
+    "$decal" 1
+    "$decalscale" 0.25	
+}

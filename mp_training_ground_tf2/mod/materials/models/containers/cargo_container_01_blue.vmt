@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$surfaceprop" "default"
+	"$basetexture" "models\containers\cargo_container_01_blue_col"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1.5 1.5 1.5]"
+}

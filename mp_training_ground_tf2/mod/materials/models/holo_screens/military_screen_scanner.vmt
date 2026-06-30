@@ -3,7 +3,7 @@
 	"$baseTexture" "models/holo_screens/military_screen_scanner_col"
 	"$texture2" "effects/dev_scanline"
 	"$additive" 1
-	// TF2_UNSUPPORTED $rotatespeed: "$rotatespeed" -.02
+	"$rotatespeed" -.02
 	"$translucent" 1
 	"$color" "[1 1 1]"
 	"Proxies"
@@ -15,8 +15,7 @@
 			"sineMax" "1.2"
 			"sinePeriod" 4
 			"resultVar" "$rotatespeed"
-	
-}
+		}
 		
 
 		
@@ -25,8 +24,7 @@
 			"translateVar" "$rotatespeed"
 			"resultvar" "$basetexturetransform"
 			"texturescrollangle" 110
-	
-}
+		}
 
 
 		
@@ -36,8 +34,6 @@
 			"minVal" .8
 			"maxVal" 1
 			"resultVar" "$alpha"
-	
-}
-
-}
+		}
+	}
 }

@@ -2,11 +2,10 @@
 {
 	"$baseTexture" "models/holo_screens/screen_bars_frame_col"
 	"$texture2" "models/holo_screens/screen_bars_moving_beam_col"
-//
-	"$additive" 1
+//	"$additive" 1
 	"$translucent" 1
 	"$color" "[1 1 1]"
-"$alphatest"			1
+//	"$alphatest"			1
 	"Proxies"
 	{
 
@@ -17,8 +16,7 @@
 			"texturescrollvar" "$texture2transform"
 			"texturescrollrate" -0.2
 			"texturescrollangle" 0
-	
-}
+		}
 		
 		
 		
@@ -28,8 +26,6 @@
 			"minVal" .8
 			"maxVal" 1
 			"resultVar" "$alpha"
-	
-}
-
-}
+		}
+	}
 }

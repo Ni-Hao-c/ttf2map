@@ -1,0 +1,22 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "world\metal\pipe_painted_white_col"
+	"$bumpmap" "world\metal\pipe_painted_white_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\metal\pipe_painted_white_spc"
+	"$reflectiontintshininess" "world\metal\pipe_painted_white_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	"$EnvmapSharpnessBias" "0"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "world\metal\pipe_painted_white_exp"
+}

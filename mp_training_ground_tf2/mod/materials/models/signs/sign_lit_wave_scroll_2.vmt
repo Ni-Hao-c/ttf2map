@@ -1,0 +1,27 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "plastic"
+	"$basetexture" "models\signs\sign_lit_wave_scroll_2_col"
+	"$selfillum" "1"
+	"$selfillummask" "models\signs\sign_lit_wave_scroll_2_ilm"
+	"$selfillumtint" "[0.4 0.4 0.4]"
+	//Start of freehand input from reVaMpT//
+
+	$scrolling_rate ".1"
+	$scrolling_angle "180"
+	
+	"Proxies"
+	{
+	
+		"TextureScroll"
+		{
+			"texturescrollvar" "$BASETEXTURETRANSFORM"
+			"texturescrollrate" $scrolling_rate
+			"texturescrollangle" $scrolling_angle
+		}
+	
+	}
+}

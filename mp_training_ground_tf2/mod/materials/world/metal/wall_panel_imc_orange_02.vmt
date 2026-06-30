@@ -1,0 +1,17 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "world\metal\wall_panel_IMC_orange_02_col"
+	"$bumpmap" "world\metal\wall_panel_IMC_01_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\metal\wall_panel_IMC_01_spc"
+	"$fresnelranges" "[.15 .3 1]"
+	"$envmapfresnel" "1"
+	"$envmaptint" "[0.0509803921568627 0.0509803921568627 0.0509803921568627]"
+	"$envmapsharpnessmult" "1"
+	"$speculartint" "[1 1 1]"
+	"$shininessoverridevalue" "1"
+}

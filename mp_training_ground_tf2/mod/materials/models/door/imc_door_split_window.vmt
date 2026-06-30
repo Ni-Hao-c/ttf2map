@@ -1,0 +1,21 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "default"
+	"$basetexture" "models\door\imc_door_split_window_col"
+	"$bumpmap" "models\door\imc_door_split_window_nml"
+	"$translucent" "1"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\door\imc_door_split_window_spc"
+	"$reflectiontintshininess" "models\door\imc_door_split_window_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "0"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[0.6 0.6 0.6]"
+	"$EnvmapSharpnessBias" "0"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\door\imc_door_split_window_exp"
+}

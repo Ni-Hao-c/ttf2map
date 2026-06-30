@@ -1,0 +1,26 @@
+"mp_zone_18"
+{
+	assets
+	{
+		material		overviews/mp_zone_18
+		material_alt	overviews/fullscreen/mp_zone_18
+	}
+	pos_x	-4741
+	pos_y	3548
+	scale	9.000
+	displayDist	2048
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

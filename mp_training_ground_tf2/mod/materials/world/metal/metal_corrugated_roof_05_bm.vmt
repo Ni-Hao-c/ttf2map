@@ -1,0 +1,47 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "world\metal\metal_corrugated_roof_02_col"
+	"$bumpmap" "world\metal\metal_corrugated_roof_01_nml"
+	"$specularboost" "2"
+	"$reflectiontint" "world\metal\metal_corrugated_roof_05_spc"
+	"$reflectiontintshininess" "world\metal\metal_corrugated_roof_05_spc"
+	"$reflectiontintcolor" "1"
+	"$envmapSharpnessBias" "0"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "2"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapLambertian" "2"
+	"$shininess" "world\metal\metal_corrugated_roof_05_exp"
+	"$detailscale" "8"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 1]"
+	"$speculartint" "[1 1 1]"
+	
+
+	"$surfaceprop2" "metalpanel"
+	"$basetexture2" "world\metal\metal_corrugated_roof_03_col"
+	"$bumpmap2" "world\metal\metal_corrugated_roof_03_nml"
+	"$specularboost2" "4"
+	"$reflectiontint2" "world\metal\metal_corrugated_roof_03_spc"
+	"$reflectiontintshininess2" "world\metal\metal_corrugated_roof_03_spc"
+	"$reflectiontintcolor2" "1"
+	"$fresnelamount2" "1"
+	"$fresnelintensity2" ".5"
+	"$fresnelcurvesharpness2" "0.01"
+	//"$envmapLambertian" is using Slot1's value"
+	"$shininess2" "world\metal\metal_corrugated_roof_03_exp"
+	"$envmapLightScale2" ".95"
+	//"$detailscale" is using Slot1's value"
+	"$envmap2" "env_cubemap"
+	"$envmaptint2" "[1 1 1]"
+	"$speculartint2" "[1 1 1]"
+	
+	//Start of freehand input from reVaMpT//
+
+	"$envmaplightscale" ".95"
+	
+}

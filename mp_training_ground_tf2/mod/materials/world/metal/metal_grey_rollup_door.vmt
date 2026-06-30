@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world/metal/metal_grey_rollup_door_col"
+	"$surfaceprop" "metal"
+	"$bumpmap" "world/metal/metal_grey_rollup_door_nml"
+}

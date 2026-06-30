@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "world\metal\ground_trim_tracks_col"
+	"$bumpmap" "world\metal\ground_trim_tracks_nml"
+	"$surfaceprop" "metal"
+}

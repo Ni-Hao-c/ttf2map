@@ -1,0 +1,40 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+
+	"$surfaceprop" "metalvehicle"
+	"$basetexture" "models\vehicle\redeye\redeye_background_01_col"
+	"$bumpmap" "models\vehicle\redeye\redeye_background_01_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\vehicle\redeye\redeye_background_01_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" ".5"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[0 0 0]"
+	"$EnvmapSharpnessBias" "-1"
+	"$speculartint" "[1 1 1]"
+	"$shininessoverridevalue" "1"
+	"$selfillum" "1"
+	"$selfillummask" "models\vehicle\redeye\redeye_background_01_ilm"
+	"$selfillumtint" "[2 2 2]"
+	//Start of freehand input from reVaMpT//
+
+	"Proxies"
+	{
+		//flicker
+		"UniformNoise"
+		{
+			"minVal" 0.65
+			"maxVal" 1
+			"resultVar" "$selfIllumTint"
+		}
+	}
+	
+	
+}

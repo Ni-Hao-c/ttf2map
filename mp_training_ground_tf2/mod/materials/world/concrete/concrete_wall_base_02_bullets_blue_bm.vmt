@@ -1,4 +1,44 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
 {
-    "$basetexture" "world\concrete\concrete_wall_base_02_blue_col"
+
+	"$surfaceprop" "concrete"
+	"$basetexture" "world\concrete\concrete_wall_base_02_blue_col"
+	"$bumpmap" "world\concrete\concrete_wall_base_02_blue_nml"
+	"$specularboost" "1"
+	"$reflectiontint" "world\concrete\concrete_wall_base_02_blue_spc"
+	"$reflectiontintshininess" "world\concrete\concrete_wall_base_02_blue_spc"
+	"$reflectiontintcolor" "1"
+	"$envmapSharpnessBias" "-1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" ".5"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapLambertian" "2"
+	"$shininess" "world\concrete\concrete_wall_base_02_blue_exp"
+	"$envmapLightScale" ".95"
+	"$detailscale" "8"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	"$speculartint" "[1 1 1]"
+	
+
+	"$surfaceprop2" "concrete"
+	"$basetexture2" "world\concrete\concrete_wall_base_bullets_02_blue_col"
+	"$bumpmap2" "world\concrete\concrete_wall_base_bullets_02_blue_nml"
+	"$specularboost2" "1"
+	"$reflectiontint2" "world\concrete\concrete_wall_base_bullets_02_blue_spc"
+	"$reflectiontintshininess2" "world\concrete\concrete_wall_base_bullets_02_blue_spc"
+	"$reflectiontintcolor2" "1"
+	"$fresnelamount2" "1"
+	"$fresnelintensity2" ".5"
+	"$fresnelcurvesharpness2" "0.01"
+	//"$envmapLambertian" is using Slot1's value"
+	"$shininess2" "world\concrete\concrete_wall_base_bullets_02_blue_exp"
+	"$envmapLightScale2" ".95"
+	//"$detailscale" is using Slot1's value"
+	"$envmap2" "env_cubemap"
+	"$envmaptint2" "[0.5 0.5 0.5]"
+	"$speculartint2" "[1 1 1]"
+	
 }

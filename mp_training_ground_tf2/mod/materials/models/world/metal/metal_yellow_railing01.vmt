@@ -1,4 +1,5 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "world\metal\metal_yellow_railing01"
+	"$basetexture" "world\metal\metal_yellow_railing01"
+	"$surfaceprop" "default"
 }

@@ -1,6 +1,12 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
 {
-    "$basetexture" "world\decal\dirt_corner_overlay_col"
-    "$decalscale" ".025"
-    "$decal" "1"
+	"$decal" "1"
+	"$decalscale" ".25"
+	"$nodecal" "1"
+
+	"$surfaceprop" "dirt"
+	"$basetexture" "world\decal\dirt_corner_overlay_col"
+	"$translucent" "1"
 }

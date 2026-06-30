@@ -1,0 +1,11 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$decal" "1"
+	"$decalscale" ".25"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\IMC_base\swing_arm_imc_alpha_01_col"
+	"$translucent" "1"
+}

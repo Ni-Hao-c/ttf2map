@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world/roof/roof_aluminum_inner_wall_01_col"
+	"$surfaceprop" "gravel"
+	"$bumpmap" "world/roof/roof_aluminum_inner_wall_01_nml"
+}

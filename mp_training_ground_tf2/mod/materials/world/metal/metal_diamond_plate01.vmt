@@ -5,24 +5,24 @@
 
 	"$surfaceprop" "metalpanel"
 	"$basetexture" "world\metal\metal_diamond_plate_col"
-	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\metal\metal_diamond_plate_nml"
+	"$bumpmap" "world\metal\metal_diamond_plate_nml"
 	"$envmap" "env_cubemap"
-	// TF2_UNSUPPORTED $reflectiontint: "$reflectiontint" "world\metal\metal_diamond_plate_spc"
-	// TF2_UNSUPPORTED $reflectiontintshininess: "$reflectiontintshininess" "world\metal\metal_diamond_plate_spc"
-	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
-	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "1"
-	// TF2_UNSUPPORTED $fresnelintensity: "$fresnelintensity" "3"
-	// TF2_UNSUPPORTED $fresnelcurvesharpness: "$fresnelcurvesharpness" "0.01"
-	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
-	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$reflectiontint" "world\metal\metal_diamond_plate_spc"
+	"$reflectiontintshininess" "world\metal\metal_diamond_plate_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "3"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
 	"$envmaptint" "[2 2 2]"
-	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
-	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
-	// TF2_UNSUPPORTED $shininess: "$shininess" "world\metal\metal_diamond_plate_exp"
+	"$EnvmapSharpnessBias" "0"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "world\metal\metal_diamond_plate_exp"
 	//Start of freehand input from reVaMpT//
 
 	
-	// TF2_UNSUPPORTED $envmaplightscale: "$envmaplightscale" ".95"
+	"$envmaplightscale" ".95"
 		
 	
 	

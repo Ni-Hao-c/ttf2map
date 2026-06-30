@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\industrial\electric_boxes_01_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\industrial\electric_boxes_01_nml"
+}

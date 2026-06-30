@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "world\metal\panel_metal_plates_hollow_col"
+	"$surfaceprop" "metal"
+	"$alphatest"			1
+	"$alpha"				1
+	"$nocull"               1
+}

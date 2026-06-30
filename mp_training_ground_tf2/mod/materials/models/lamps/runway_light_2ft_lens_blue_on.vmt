@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\lamps\runway_light_2ft_col"
+	"$bumpmap" "models\lamps\runway_light_2ft_nml"
+
+	"$translucent" "1"
+	"$surfaceprop" "metal"
+
+	"$envmap" "env_cubemap"
+
+	//SELFILLUM
+	"$selfillum" "1"										// enable Selfillum
+	"$selfillumtint" "[ 0 .1 1 ]"				// color tint - (allows overbright)
+	"$selfillummask" "models\lamps\runway_light_2ft_sim"			//Use Mask instead of alpha
+
+
+}

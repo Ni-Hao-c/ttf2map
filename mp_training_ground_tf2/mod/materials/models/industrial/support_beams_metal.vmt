@@ -2,19 +2,20 @@
 //This file is auto-generated from reVaMpT. Edit at your own risk.
 "VertexLitGeneric"
 {
+
 	"$surfaceprop" "metal"
 	"$basetexture" "models\industrial\support_beams_metal_col"
 	"$bumpmap" "models\industrial\support_beams_metal_nml"
 	"$envmap" "env_cubemap"
 	"$reflectiontint" "models\industrial\support_beams_metal_spc"
 	"$reflectiontintshininess" "models\industrial\support_beams_metal_spc"
-	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
-	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "0"
-	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
-	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2.42"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "0"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2.42"
 	"$envmaptint" "[0.6 0.6 0.6]"
-	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
-	// TF2_UNSUPPORTED $specularboost: "$specularboost" "1.25"
-	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
-	// TF2_UNSUPPORTED $shininess: "$shininess" "models\industrial\support_beams_metal_exp"
+	"$EnvmapSharpnessBias" "0"
+	"$specularboost" "1.25"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\industrial\support_beams_metal_exp"
 }

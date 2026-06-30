@@ -1,0 +1,25 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$decal" "1"
+	"$decalscale" ".25"
+
+	"$surfaceprop" "plaster"
+	"$basetexture" "world\decal\decal_plaster_crack_horizontal_col"
+	"$bumpmap" "world\decal\decal_plaster_crack_horizontal_nml"
+	"$alphatest" "1"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\decal\decal_plaster_crack_horizontal_spc"
+	"$reflectiontintshininess" "world\decal\decal_plaster_crack_horizontal_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "0"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "world\decal\decal_plaster_crack_horizontal_exp"
+}

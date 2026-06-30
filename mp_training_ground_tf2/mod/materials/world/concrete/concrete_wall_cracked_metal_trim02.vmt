@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world\concrete\concrete_wall_cracked_metal_trim02_col"
+	"$surfaceprop" "concrete"
+}

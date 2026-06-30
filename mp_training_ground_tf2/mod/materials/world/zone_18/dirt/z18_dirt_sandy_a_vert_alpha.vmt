@@ -1,0 +1,14 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$vertexcolor" "1"
+	"$vertcoloristint" "1"
+	"$vertexalpha" "1"
+
+	"$surfaceprop" "sand"
+	"$basetexture" "world\zone_18\dirt\z18_dirt_sandy_aggregate_a_col"
+	"$bumpmap" "world\dirt\dirt_sandy_aggregate_a_nml"
+	"$translucent" "1"
+	"$envmaplightscale" ".95"
+}

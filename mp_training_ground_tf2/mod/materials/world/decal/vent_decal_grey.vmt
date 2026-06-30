@@ -7,6 +7,6 @@
 
 	"$surfaceprop" "metal"
 	"$basetexture" "world\decal\vent_decal_grey_col"
-	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\decal\vent_decal_grey_nml"
+	"$bumpmap" "world\decal\vent_decal_grey_nml"
 	"$translucent" "1"
 }

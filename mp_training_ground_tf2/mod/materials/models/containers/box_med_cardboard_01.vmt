@@ -1,4 +1,9 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\containers\box_med_cardboard_col"
+
+	"$surfaceprop" "cardboard"
+	"$basetexture" "models\containers\box_med_cardboard_col"
+	"$bumpmap" "models\containers\box_med_cardboard_nml"
 }

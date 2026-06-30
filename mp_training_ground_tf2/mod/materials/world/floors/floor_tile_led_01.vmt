@@ -1,0 +1,19 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$vertexcolor" "1"
+
+	"$surfaceprop" "tile"
+	"$basetexture" "world\floors\floor_tile_LED_01_col"
+	"$bumpmap" "world\floors\floor_tile_LED_01_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\floors\floor_tile_LED_01_spc"
+	"$fresnelranges" "[0 1 1]"
+	"$envmapfresnel" "1"
+	"$envmaptint" "[1 1 1]"
+	"$envmapsharpnessmult" "1"
+	"$speculartint" "[1 1 1]"
+	"$shininessoverridevalue" "1"
+	"$selfillum" "1"
+}

@@ -5,5 +5,5 @@
 
 	"$surfaceprop" "concrete"
 	"$basetexture" "world\concrete\cement_ruined_chunk_01_col"
-	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\concrete\cement_ruined_chunk_01_nml"
+	"$bumpmap" "world\concrete\cement_ruined_chunk_01_nml"
 }

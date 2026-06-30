@@ -1,0 +1,21 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\lamps\runway_light_2ft_col"
+	"$bumpmap" "models\lamps\runway_light_2ft_nml"
+	"$translucent" "1"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\lamps\runway_light_2ft_spc"
+	"$reflectiontintshininess" "models\lamps\runway_light_2ft_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "0"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2.41"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	"$EnvmapSharpnessBias" "0"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\lamps\runway_light_2ft_exp"
+}

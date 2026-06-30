@@ -1,0 +1,11 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "plastic"
+	"$basetexture" "models\zone_18\zone_18_exit_signs_alpha_col"
+	"$selfillum" "1"
+	"$selfillummask" "models\zone_18\zone_18_exit_signs_alpha_ilm"
+	"$selfillumtint" "[5 5 5]"
+}

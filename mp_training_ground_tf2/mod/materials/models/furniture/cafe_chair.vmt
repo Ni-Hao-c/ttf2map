@@ -1,0 +1,9 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "default"
+	"$basetexture" "models\furniture\cafe_chair_col"
+	"$bumpmap" "models\furniture\cafe_chair_nml"
+}

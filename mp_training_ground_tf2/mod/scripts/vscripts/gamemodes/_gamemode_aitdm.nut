@@ -6,9 +6,9 @@ const int SQUADS_PER_TEAM = 4
 
 const int REAPERS_PER_TEAM = 2
 
-const int LEVEL_SPECTRES = 125 // 125
-const int LEVEL_STALKERS =  380// 380
-const int LEVEL_REAPERS =  500 //500
+const int LEVEL_SPECTRES = 1// 125
+const int LEVEL_STALKERS =  3// 380
+const int LEVEL_REAPERS =  5 //500
 
 // add settings
 global function AITdm_SetSquadsPerTeam

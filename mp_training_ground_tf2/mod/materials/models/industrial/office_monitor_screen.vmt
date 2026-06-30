@@ -1,0 +1,25 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "glass"
+	"$basetexture" "models\industrial\office_monitor_screen_col"
+	"$bumpmap" "models\industrial\office_monitor_screen_nml"
+	"$translucent" "1"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\industrial\office_monitor_screen_spc"
+	"$reflectiontintshininess" "models\industrial\office_monitor_screen_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "0"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[1.2 1.2 1.2]"
+	"$EnvmapSharpnessBias" "1"
+	"$specularboost" "3"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\industrial\office_monitor_screen_exp"
+	"$selfillum" "1"
+	"$selfillummask" "models\industrial\office_monitor_screen_ilm"
+	"$selfillumtint" "[1 1 1]"
+}

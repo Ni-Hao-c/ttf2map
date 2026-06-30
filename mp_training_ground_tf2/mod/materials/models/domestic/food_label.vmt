@@ -1,0 +1,23 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "plastic"
+	"$basetexture" "models\domestic\food_labels_col"
+	"$bumpmap" "models\domestic\food_labels_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\domestic\food_labels_spc"
+	"$reflectiontintshininess" "models\domestic\food_labels_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1.5"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "1"
+	"$specularboost" "2.5"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\domestic\food_labels_exp"
+}

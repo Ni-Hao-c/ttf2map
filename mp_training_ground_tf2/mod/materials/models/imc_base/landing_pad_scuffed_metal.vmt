@@ -1,0 +1,24 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$vertexcolor" "1"
+	"$vertcoloristint" "1"
+	"$vertexalpha" "1"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\IMC_base\landing_pad_scuffed_metal_col"
+	"$bumpmap" "models\IMC_base\landing_pad_scuffed_metal_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\IMC_base\landing_pad_scuffed_metal_spc"
+	"$reflectiontintshininess" "models\IMC_base\landing_pad_scuffed_metal_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "0"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[0.67843137254902 0.698039215686274 0.807843137254902]"
+	"$EnvmapSharpnessBias" "1"
+	"$specularboost" "2"
+	"$speculartint" "[0.572549 0.3960784 0.6156863]"
+	"$shininess" "models\IMC_base\landing_pad_scuffed_metal_exp"
+}

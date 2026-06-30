@@ -1,6 +1,11 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$decalscale" ".025"
-    "$decal" "1"
-    "$basetexture" "world\decal\stencil_white_blend_col"
+	"$basetexture" "world\decal\stencil_white_blend_col"
+	"$surfaceprop" "default"
+	
+ 
+   "$translucent" 1
+ 	
+	"$decal" 1
+   "$decalscale" 0.25
 }

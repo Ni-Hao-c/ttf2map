@@ -1,0 +1,41 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+
+	"$blendmodulatetexture" "world\asphalt\asphalt_directional01_bm"
+	"$surfaceprop" "asphalt"
+	"$basetexture" "world\asphalt\asphalt05_col"
+	"$bumpmap" "world\asphalt\asphalt05_nml"
+	"$specularboost" "1"
+	"$reflectiontint" "world\asphalt\asphalt05_spc"
+	"$reflectiontintcolor" "1"
+	"$envmapSharpnessBias" "-6"
+	"$fresnelamount" "1"
+	"$fresnelintensity" ".5"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapLambertian" "2"
+	"$shininess" "world\asphalt\asphalt05_exp"
+	"$detailscale" "8"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	"$speculartint" "[1 1 1]"
+	
+
+	"$surfaceprop2" "asphalt"
+	"$basetexture2" "world\asphalt\asphalt05_wet_col"
+	"$bumpmap2" "world\asphalt\asphalt05_nml"
+	"$specularboost2" "1.75"
+	"$reflectiontint2" "world\asphalt\asphalt05_wet_spc"
+	"$reflectiontintcolor2" "1"
+	"$fresnelamount2" "1"
+	"$fresnelintensity2" ".5"
+	"$fresnelcurvesharpness2" "0.01"
+	//"$envmapLambertian" is using Slot1's value"
+	"$shininess2" "world\asphalt\asphalt05_wet_exp"
+	//"$detailscale" is using Slot1's value"
+	"$envmap2" "env_cubemap"
+	"$envmaptint2" "[0.5 0.5 0.5]"
+	"$speculartint2" "[1 1 1]"
+	
+}

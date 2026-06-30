@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\industrial\wall_power_gen_imc_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\industrial\wall_power_gen_nml"
+	"$alphatest"			1
+	"$alpha"				1
+	"$nocull"               1
+	
+}

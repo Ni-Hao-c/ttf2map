@@ -1,0 +1,30 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\industrial\tripod_cone_v1_col"
+	"$bumpmap" "models\industrial\tripod_cone_v1_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\industrial\tripod_cone_v1_spc"
+	"$reflectiontintshininess" "models\industrial\tripod_cone_v1_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "1"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\industrial\tripod_cone_v1_exp"
+	"$selfillum" "1"
+	"$selfillummask" "models\industrial\tripod_cone_v1_ilm"
+	"$selfillumtint" "[2 0.7843137 0.3137255]"
+	//Start of freehand input from reVaMpT//
+
+	
+	
+	
+}

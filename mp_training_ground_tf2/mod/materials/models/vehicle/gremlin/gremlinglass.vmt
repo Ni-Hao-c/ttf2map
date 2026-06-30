@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\vehicle\gremlin\gremlinglass_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\vehicle\gremlin\gremlinglass_nml"
+	
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$translucent" 1
+//	"$alphatest" 1
+	"$decal" 1
+	"$decalscale" 0.25
+	
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\vehicle\forklift\forklift_signage_col"
+	"$surfaceprop" "default"
+}

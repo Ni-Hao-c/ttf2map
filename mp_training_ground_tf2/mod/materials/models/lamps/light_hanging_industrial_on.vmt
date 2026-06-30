@@ -1,4 +1,26 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\lamps\light_hanging_industrial_col"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\lamps\light_hanging_industrial_col"
+	"$bumpmap" "models\lamps\light_hanging_industrial_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\lamps\light_hanging_industrial_spc"
+	"$reflectiontintshininess" "models\lamps\light_hanging_industrial_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" ".5"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "-1.5"
+	"$specularboost" "1.5"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\lamps\light_hanging_industrial_exp"
+	"$selfillum" "1"
+	"$selfillummask" "models\lamps\light_hanging_industrial_ilm"
+	"$selfillumtint" "[1.5 1.5 1.5]"
 }

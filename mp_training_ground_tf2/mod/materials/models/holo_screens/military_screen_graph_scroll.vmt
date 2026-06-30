@@ -13,8 +13,7 @@
 			"texturescrollvar" "$basetexturetransform"
 			"texturescrollrate" 1
 			"texturescrollangle" 0
-	
-}
+		}
 		
 
 
@@ -25,8 +24,6 @@
 			"minVal" .8
 			"maxVal" 1
 			"resultVar" "$alpha"
-	
-}
-
-}
+		}
+	}
 }

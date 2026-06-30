@@ -1,0 +1,41 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+
+	"$surfaceprop" "grass"
+	"$basetexture" "world\grass\grass_02_col"
+	"$bumpmap" "world\grass\grass_02_nml"
+	"$specularboost" "1"
+	"$reflectiontint" ""
+	"$reflectiontintshininess" ""
+	"$envmapSharpnessBias" "0"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapLambertian" "2"
+	"$shininessoverridevalue" "1"
+	"$shininess" ""
+	"$detailscale" "8"
+	"$envmaptint" "[1 1 1]"
+	"$speculartint" "[1 1 1]"
+	
+
+	"$surfaceprop2" "sand"
+	"$basetexture2" "world\zone_18\dirt\z18_dirt_sandy_aggregate_a_col"
+	"$bumpmap2" "world\dirt\dirt_sandy_aggregate_a_nml"
+	"$specularboost2" "1"
+	"$reflectiontint2" ""
+	"$reflectiontintshininess2" ""
+	"$fresnelamount2" "1"
+	"$fresnelintensity2" "1"
+	"$fresnelcurvesharpness2" "0.01"
+	//"$envmapLambertian" is using Slot1's value"
+	"$shininessoverridevalue2" "1"
+	"$shininess2" ""
+	"$envmapLightScale2" ".95"
+	//"$detailscale" is using Slot1's value"
+	"$envmaptint2" "[1 1 1]"
+	"$speculartint2" "[1 1 1]"
+	
+}

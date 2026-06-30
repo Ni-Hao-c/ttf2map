@@ -1,0 +1,26 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$nocull" "1"
+
+	"$surfaceprop" "metalgrate"
+	"$basetexture" "world\metal\metal_grate_orangepanels_mip0"
+	"$bumpmap" "world\metal\metal_grate_bluepanels_nml"
+	"$alphatest" "1"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\metal\metal_grate_bluepanels_spc"
+	"$reflectiontintshininess" "world\metal\metal_grate_bluepanels_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1.5"
+	"$fresnelcurvesharpness" "0"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2.02"
+	"$envmaptint" "[0.75 0.75 0.75]"
+	"$EnvmapSharpnessBias" "0"
+	"$specularboost" "1.25"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "world\metal\metal_grate_bluepanels_exp"
+	"$envmaplightscale" ".95"
+}

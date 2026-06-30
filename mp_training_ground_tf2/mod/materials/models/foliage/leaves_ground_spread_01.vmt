@@ -1,0 +1,15 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$nocull" "1"
+	"$vertexcolor" "1"
+	"$vertcoloristint" "1"
+	"$vertexalpha" "1"
+	"$nodecal" "1"
+	"%compilePassBullets" "1"
+
+	"$surfaceprop" "foliage"
+	"$basetexture" "models\foliage\leaves_ground_spread_01_col"
+	"$alphatest" "1"
+}

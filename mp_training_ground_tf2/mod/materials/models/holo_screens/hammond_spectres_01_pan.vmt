@@ -1,0 +1,24 @@
+"UnlitTwoTexture"
+{
+
+	"$surfaceprop" "glass"
+	"$basetexture" "models\holo_screens\hammond_spectres_01_col"
+	"$Texture2" "effects/dev_scanline_light"
+
+
+	"Proxies"
+	{
+		"TextureScroll"
+        {
+            "texturescrollvar" $basetexturetransform
+            "texturescrollrate" .08
+        }
+		"TextureScroll"
+        {
+            "texturescrollvar" "$texture2transform"
+            "texturescrollrate" "8"
+			"texturescrollangle" "90"
+        }
+		
+	}
+}

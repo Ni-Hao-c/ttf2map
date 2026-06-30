@@ -1,0 +1,48 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$vertexcolor" "1"
+	"$vertcoloristint" "1"
+	"$vertexalpha" "1"
+
+	"$surfaceprop" "sand"
+	"$basetexture" "world\zone_18\dirt\z18_dirt_sandy_aggregate_a_col"
+	"$bumpmap" "world\dirt\dirt_sandy_aggregate_a_nml"
+	"$specularboost" "1"
+	"$reflectiontint" ""
+	"$reflectiontintshininess" ""
+	"$envmapSharpnessBias" "0"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapLambertian" "2"
+	"$shininessoverridevalue" "1"
+	"$shininess" ""
+	"$envmapLightScale" ".95"
+	"$detailscale" "8"
+	"$envmaptint" "[1 1 1]"
+	"$speculartint" "[1 1 1]"
+	
+
+	"$surfaceprop2" "dirt"
+	"$basetexture2" "world\dirt\sand_mud_beach_tracks_col"
+	"$bumpmap2" "world\dirt\sand_mud_beach_tracks_nml"
+	"$specularboost2" ".2"
+	"$reflectiontint2" "world\dirt\sand_mud_beach_tracks_spc"
+	"$reflectiontintshininess2" "world\dirt\sand_mud_beach_tracks_spc"
+	"$reflectiontintcolor2" "1"
+	"$fresnelamount2" "1"
+	"$fresnelintensity2" "1"
+	"$fresnelcurvesharpness2" "0.01"
+	//"$envmapLambertian" is using Slot1's value"
+	"$shininess2" "world\dirt\sand_mud_beach_tracks_exp"
+	"$envmapLightScale2" ".95"
+	//"$detailscale" is using Slot1's value"
+	"$detailnormal2" "world\detail\sand_mud_beach_01_dm_nml"
+	"$detailnormalmode2" "1"
+	"$envmap2" "env_cubemap"
+	"$envmaptint2" "[0.1 0.1 0.1]"
+	"$speculartint2" "[1 1 1]"
+	
+}

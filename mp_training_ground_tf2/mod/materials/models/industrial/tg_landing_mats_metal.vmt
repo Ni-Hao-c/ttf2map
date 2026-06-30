@@ -1,4 +1,23 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\industrial\tg_landing_mats_metal_col"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\industrial\tg_landing_mats_metal_col"
+	"$bumpmap" "models\industrial\landing_mats_metal_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\industrial\tg_landing_mats_metal_spc"
+	"$reflectiontintshininess" "models\industrial\tg_landing_mats_metal_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1.2"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[0.7 0.7 0.7]"
+	"$EnvmapSharpnessBias" "-1.5"
+	"$specularboost" ".8"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\industrial\tg_landing_mats_metal_exp"
 }

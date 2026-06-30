@@ -1,0 +1,24 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+
+	"$surfaceprop" "glass"
+	"$basetexture" "models\world\windows\safety_glass_col"
+	"$translucent" "1"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\world\windows\safety_glass_spc"
+	"$reflectiontintshininess" "models\world\windows\safety_glass_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "3"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2.07"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "0"
+	"$specularboost" "7.5"
+	"$speculartint" "[1 1 1]"
+	"$shininessoverridevalue" "150"
+	"$envmaplightscale" ".97"
+}

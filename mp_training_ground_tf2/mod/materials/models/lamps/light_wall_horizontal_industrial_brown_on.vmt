@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\lamps\light_wall_horizontal_industrial_brown_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\lamps\light_wall_horizontal_industrial_brown_nml"
+}

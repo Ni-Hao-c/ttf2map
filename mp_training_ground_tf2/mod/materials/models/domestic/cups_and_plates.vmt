@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\domestic\cups_and_plates_col"
+	"$surfaceprop" "default"
+}

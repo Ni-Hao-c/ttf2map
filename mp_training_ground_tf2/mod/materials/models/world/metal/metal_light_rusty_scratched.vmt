@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "world\metal\metal_light_rusty_scratched_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "world\metal\metal_light_rusty_scratched_nml"
+}

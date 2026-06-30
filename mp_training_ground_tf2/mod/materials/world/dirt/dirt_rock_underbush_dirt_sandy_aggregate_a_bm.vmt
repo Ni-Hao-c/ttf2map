@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world/dirt/dirt_rocks_underbrush01_col"
+	"$bumpmap" "world/dirt/dirt_rocks_underbrush01_nml"
+	"$surfaceprop" "dirt"
+
+	"$basetexture2" "world/dirt/dirt_sandy_aggregate_a_col"
+	"$bumpmap2" "world/dirt/dirt_sandy_aggregate_a_nml"	
+	"$surfaceprop2" "dirt"
+
+    "$blendmodulatetexture" "world/dirt/dirt_rocks_underbrush01_bm"
+	"$vertexcolor" "1"
+}

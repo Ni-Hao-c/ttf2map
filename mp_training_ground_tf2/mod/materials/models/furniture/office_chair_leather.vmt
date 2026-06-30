@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\furniture\office_chair_leather_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\furniture\office_chair_leather_nml"
+}

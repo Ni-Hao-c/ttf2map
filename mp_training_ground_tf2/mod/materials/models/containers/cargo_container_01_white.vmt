@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$surfaceprop" "default"
+	"$basetexture" "models\containers\cargo_container_grey_col"
+}

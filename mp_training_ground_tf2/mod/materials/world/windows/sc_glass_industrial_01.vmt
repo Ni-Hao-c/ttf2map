@@ -1,0 +1,28 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$nocull" "1"
+
+	"$surfaceprop" "glass"
+	"$basetexture" "world\windows\sc_glass_industrial_01_col"
+	"$bumpmap" "world\windows\glass_thick_unbreakable_01_nml"
+	"$translucent" "1"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\windows\sc_glass_industrial_01_spc"
+	"$reflectiontintshininess" "world\windows\sc_glass_industrial_01_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "2"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "0"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "-2"
+	"$specularboost" "5"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "world\windows\sc_glass_industrial_01_exp"
+	//Start of freehand input from reVaMpT//
+
+	"$envmaplightscale" "1"
+}

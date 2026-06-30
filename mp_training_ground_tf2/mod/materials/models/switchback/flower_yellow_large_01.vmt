@@ -1,0 +1,11 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$nocull" "1"
+
+	"$surfaceprop" "foliage"
+	"$basetexture" "models\switchback\flower_yellow_large_01_col"
+	"$bumpmap" "models\switchback\flower_yellow_large_01_nml"
+	"$alphatest" "1"
+}

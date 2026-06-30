@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\vehicle\forklift\forklift_v1_glass_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\vehicle\forklift\forklift_v1_glass_nml"
+}

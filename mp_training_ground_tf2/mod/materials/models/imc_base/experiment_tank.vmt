@@ -1,0 +1,24 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\IMC_base\experiment_tank_col"
+	"$bumpmap" "models\IMC_base\experiment_tank_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\IMC_base\experiment_tank_spc"
+	"$reflectiontintshininess" "models\IMC_base\experiment_tank_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "0"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "0.22"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "-1"
+	"$specularboost" "1.25"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\IMC_base\experiment_tank_exp"
+	"$selfillum" "1"
+	"$selfillummask" "models\IMC_base\experiment_tank_ilm"
+	"$selfillumtint" "[0.4 0.4 0.4]"
+}

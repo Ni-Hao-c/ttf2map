@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\containers\box_large_cardboard_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\containers\box_large_cardboard_nml"
+}

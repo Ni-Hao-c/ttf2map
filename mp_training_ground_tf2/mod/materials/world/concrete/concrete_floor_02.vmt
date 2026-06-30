@@ -1,4 +1,24 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
 {
-    "$basetexture" "world\concrete\concrete_floor_02_col"
+
+	"$surfaceprop" "concrete"
+	"$basetexture" "world\concrete\concrete_floor_02_col"
+	"$bumpmap" "world\concrete\concrete_floor_02_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\concrete\concrete_floor_02_spc"
+	"$reflectiontintshininess" "world\concrete\concrete_floor_02_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" ".5"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[0.75 0.75 0.75]"
+	"$EnvmapSharpnessBias" "-5"
+	"$specularboost" ".5"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "world\concrete\concrete_floor_02_exp"
+	"$envmaplightscale" ".9"
 }

@@ -16,9 +16,7 @@
 			"minVal" .8
 			"maxVal" 1
 			"resultVar" "$alpha"
-	
-}
+		}
 
-
-}
+	}
 }

@@ -1,0 +1,24 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "world\metal\metal_yellow_railing01_col"
+	"$bumpmap" "world\metal\metal_yellow_railing01_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\metal\metal_yellow_railing01_spc"
+	"$reflectiontintshininess" "world\metal\metal_yellow_railing01_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "2"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[0.7 0.7 0.7]"
+	"$EnvmapSharpnessBias" "0"
+	"$specularboost" "1.5"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "world\metal\metal_yellow_railing01_exp"
+	"$envmaplightscale" ".95"
+}

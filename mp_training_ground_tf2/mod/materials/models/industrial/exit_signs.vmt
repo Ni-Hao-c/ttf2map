@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\industrial\exit_signs_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\industrial\exit_signs_nml"
+}

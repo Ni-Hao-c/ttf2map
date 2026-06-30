@@ -1,0 +1,22 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\furniture\curved_bench_plastic_planter_col"
+	"$bumpmap" "models\furniture\curved_bench_plastic_planter_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\furniture\curved_bench_plastic_planter_spc"
+	"$reflectiontintshininess" "models\furniture\curved_bench_plastic_planter_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[0.1 0.1 0.1]"
+	"$EnvmapSharpnessBias" "-.9"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\furniture\curved_bench_plastic_planter_exp"
+}

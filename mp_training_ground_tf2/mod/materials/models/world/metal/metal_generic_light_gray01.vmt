@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "world\metal\metal_generic_light_gray01"
+	"$surfaceprop" "default"
+}

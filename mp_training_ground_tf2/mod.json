@@ -1,13 +1,31 @@
 {
     "Name": "mp_training_ground_tf2",
     "Description": " ",
-    "Version": "0.1.5",
+    "Version": "0.1.6",
     "LoadPriority": 2,
     "RequiredOnClient": true,
     "Scripts": [
     {
       "Path": "mp/sv_mega_turret_control.nut",
       "RunOn": "SERVER && MP"
+    },
+    {
+      "Path": "weapons/sp_weapon_viperbossrockets_s2s.nut",
+      "RunOn": "SERVER || CLIENT"
+    },
+    {
+      "Path": "mp/levels/sv_viper_boss.nut",
+      "RunOn": "SERVER && MP",
+      "ServerCallback": {
+        "Before": "ViperBoss_BeforeInit",
+        "After": "ViperBoss_CommandInit"
+      }
     }
-    ]
+    ],
+      "Localisation": [
+    "resource/mp_boneyard_%language%.txt",
+    "resource/mp_training_ground_tf2_%language%.txt",
+    "resource/mp_zone_18_%language%.txt"
+
+  ]
 }

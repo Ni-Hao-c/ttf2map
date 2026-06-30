@@ -1,0 +1,33 @@
+"basic"
+{
+	"$vertexcolor" "1"
+	"$vertcoloristint" "1"
+	"$vertexalpha" "1"
+	"$nodecal" "1"
+	"%compilePassBullets" "1"
+	"$godray" "1"
+	"$godrayMinFadeDist" "0"
+	"$godrayMaxFadeDist" "10"
+
+	"$surfaceprop" "water"
+	"$basetexture" "world\water\waterfall_fountain_02_col"
+	"$translucent" "1"
+
+
+	"%tooltexture" "world\water\foam_scroller01_tool"
+
+	$scrolling_rate "0.25"
+	$scrolling_angle "-75"
+
+	"Proxies"
+	{
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$BASETEXTURETRANSFORM"
+			"texturescrollrate" $scrolling_rate
+			"texturescrollangle" $scrolling_angle
+		}
+
+	}
+}

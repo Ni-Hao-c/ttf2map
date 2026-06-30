@@ -1,4 +1,10 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "models\containers\crate_orange_plastic_col"
+	"$basetexture" "models\containers\crate_orange_plastic_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\containers\crate_orange_plastic_nml"
+
+	"$alphatest"			1
+	"$alpha"				1
+	"$nocull"               1
 }

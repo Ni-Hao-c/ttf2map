@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\domestic\burrito_chewybar_box_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\domestic\burrito_chewybar_box_nml"
+}

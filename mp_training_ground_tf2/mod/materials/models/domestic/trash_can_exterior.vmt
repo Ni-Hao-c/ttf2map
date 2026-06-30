@@ -1,0 +1,22 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\domestic\trash_can_exterior_col"
+	"$bumpmap" "models\domestic\trash_can_exterior_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\domestic\trash_can_exterior_spc"
+	"$reflectiontintshininess" "models\domestic\trash_can_exterior_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "-.9"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\domestic\trash_can_exterior_exp"
+}

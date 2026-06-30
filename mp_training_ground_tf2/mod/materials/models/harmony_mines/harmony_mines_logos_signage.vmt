@@ -1,0 +1,22 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\harmony_mines\harmony_mines_logos_signage_col"
+	"$bumpmap" "models\harmony_mines\harmony_mines_logos_signage_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\harmony_mines\harmony_mines_logos_signage_spc"
+	"$reflectiontintshininess" "models\harmony_mines\harmony_mines_logos_signage_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "0"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\harmony_mines\harmony_mines_logos_signage_exp"
+}

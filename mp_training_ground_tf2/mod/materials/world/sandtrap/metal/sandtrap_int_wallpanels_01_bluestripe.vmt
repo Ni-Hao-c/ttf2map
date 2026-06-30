@@ -1,0 +1,26 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$vertexcolor" "1"
+	"$vertcoloristint" "1"
+	"$vertexalpha" "1"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "world\sandtrap\metal\sandtrap_int_wallpanels_01_bluestripe_col"
+	"$bumpmap" "world\sandtrap\metal\sandtrap_int_wallpanels_01_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\sandtrap\metal\sandtrap_int_wallpanels_01_bluestripe_spc"
+	"$reflectiontintshininess" "world\sandtrap\metal\sandtrap_int_wallpanels_01_bluestripe_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[0.75 0.75 0.75]"
+	"$EnvmapSharpnessBias" "-1"
+	"$specularboost" "1.5"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "world\sandtrap\metal\sandtrap_int_wallpanels_01_bluestripe_exp"
+}

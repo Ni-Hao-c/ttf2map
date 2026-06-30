@@ -1,5 +1,25 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\foliage\foliage_ground_plants_col"
-    "$alphatest" "1"
+	"$nocull" "1"
+	"$nodecal" "1"
+	"%compilePassBullets" "1"
+
+	"$surfaceprop" "foliage"
+	"$basetexture" "models\foliage\foliage_ground_plants_col"
+	"$bumpmap" "models\foliage\foliage_ground_plants_nml"
+	"$alphatest" "1"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\foliage\foliage_ground_plants_spc"
+	"$reflectiontintshininess" "models\foliage\foliage_ground_plants_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "0"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[0.1 0.1 0.1]"
+	"$EnvmapSharpnessBias" "0"
+	"$specularboost" ".1"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\foliage\foliage_ground_plants_exp"
 }

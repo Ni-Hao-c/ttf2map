@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world\stone\stone_tile_m_white_col"
+	"$surfaceprop" "boulder"
+}

@@ -1,0 +1,15 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$nocull" "1"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$nodecal" "1"
+	"%compilePassBullets" "1"
+
+	"$surfaceprop" "foliage"
+	"$basetexture" "models\foliage\tree_fir_large_leaves_01_col"
+	"$bumpmap" "models\foliage\tree_fir_large_leaves_01_nml"
+	"$alphatest" "1"
+}

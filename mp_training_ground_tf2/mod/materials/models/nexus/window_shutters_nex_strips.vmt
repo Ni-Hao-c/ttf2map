@@ -1,0 +1,24 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$nocull" "1"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\nexus\window_shutters_nex_strips_col"
+	"$bumpmap" "models\nexus\window_shutters_nex_strips_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\nexus\window_shutters_nex_strips_spc"
+	"$reflectiontintshininess" "models\nexus\window_shutters_nex_strips_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[0.75 0.75 0.75]"
+	"$EnvmapSharpnessBias" "0"
+	"$specularboost" "1.5"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\nexus\window_shutters_nex_strips_exp"
+}

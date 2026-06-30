@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\domestic\security_camera_01_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\domestic\security_camera_01_nml"
+}

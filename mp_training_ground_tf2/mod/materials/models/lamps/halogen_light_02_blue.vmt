@@ -1,0 +1,25 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\lamps\halogen_light_02_col"
+	"$bumpmap" "models\lamps\halogen_light_02_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\lamps\halogen_light_02_spc"
+	"$reflectiontintshininess" "models\lamps\halogen_light_02_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "-.8"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\lamps\halogen_light_02_exp"
+	"$selfillum" "1"
+	"$selfillummask" "models\lamps\halogen_light_02_ilm"
+	"$selfillumtint" "[1.317647 2.705882 2.941176]"
+}

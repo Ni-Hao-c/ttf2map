@@ -1,0 +1,23 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\colony\colony_fence_modular_b_col"
+	"$bumpmap" "models\colony\colony_fence_modular_b_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\colony\colony_fence_modular_b_spc"
+	"$reflectiontintshininess" "models\colony\colony_fence_modular_b_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "0"
+	"$specularboost" "1.5"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\colony\colony_fence_modular_b_exp"
+}

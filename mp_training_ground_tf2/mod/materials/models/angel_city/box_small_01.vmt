@@ -2,6 +2,7 @@
 //This file is auto-generated from reVaMpT. Edit at your own risk.
 "VertexLitGeneric"
 {
+
 	"$surfaceprop" "cardboard"
 	"$basetexture" "models\angel_city\box_small_01_col"
 	"$bumpmap" "models\angel_city\box_small_01_nml"
@@ -10,12 +11,12 @@
 	"$reflectiontintshininess" "models\angel_city\box_small_01_spc"
 	"$reflectiontintcolor" "1"
 	"$fresnelamount" "1"
-	 "$fresnelintensity" "1"
-	 "$fresnelcurvesharpness" "0.01"
-	 "$envmapfresnel" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
 	"$envmapLambertian" "1.15"
 	"$envmaptint" "[1.5 1.5 1.5]"
-	 "$EnvmapSharpnessBias" "-1.5"
-	 "$speculartint" "[1 1 1]"
-	 "$shininess" "models\angel_city\box_small_01_exp"
+	"$EnvmapSharpnessBias" "-1.5"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\angel_city\box_small_01_exp"
 }

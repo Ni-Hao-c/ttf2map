@@ -2,19 +2,20 @@
 //This file is auto-generated from reVaMpT. Edit at your own risk.
 "VertexLitGeneric"
 {
+
 	"$surfaceprop" "default"
 	"$basetexture" "models\door\imc_door_frame_01_col"
 	"$bumpmap" "models\door\imc_door_frame_01_nml"
 	"$envmap" "env_cubemap"
 	"$reflectiontint" "models\door\imc_door_frame_01_spc"
 	"$reflectiontintshininess" "models\door\imc_door_frame_01_spc"
-	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
-	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "0"
-	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
-	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "2"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "0"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
 	"$envmaptint" "[0.5 0.5 0.5]"
-	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
-	// TF2_UNSUPPORTED $specularboost: "$specularboost" ".75"
-	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
-	// TF2_UNSUPPORTED $shininess: "$shininess" "models\door\imc_door_frame_01_exp"
+	"$EnvmapSharpnessBias" "0"
+	"$specularboost" ".75"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\door\imc_door_frame_01_exp"
 }

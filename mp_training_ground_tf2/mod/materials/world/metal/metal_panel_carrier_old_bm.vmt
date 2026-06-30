@@ -1,4 +1,27 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
 {
-    "$basetexture" "world\metal\metal_panel_carrier_old_col"
+
+	"$blendmodulatetexture" "world\metal\metal_panel_carrier_old_bm"
+	"$basetexture" "world\metal\metal_panel_carrier_old_col"
+	"$bumpmap" "world\metal\metal_panel_carrier_old_nml"
+	"$specularboost" "1"
+	"$reflectiontint" "world\metal\metal_panel_carrier_old_spc"
+	"$shininess" "world\metal\metal_panel_carrier_old_exp"
+	
+
+	"$specularboost2" "1"
+	"$surfaceprop2" "metal"
+	"$basetexture2" "world\metal\metal_panel_carrier_moss_col"
+	"$bumpmap2" "world\metal\metal_panel_carrier_moss_nml"
+	"$reflectiontint2" "world\metal\metal_panel_carrier_moss_spc"
+	
+	//Start of freehand input from reVaMpT//
+
+	
+	
+	"$envmaplightscale" ".95"
+		
+	
 }

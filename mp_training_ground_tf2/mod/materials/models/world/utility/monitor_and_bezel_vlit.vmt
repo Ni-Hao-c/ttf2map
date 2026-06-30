@@ -1,0 +1,20 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "glass"
+	"$basetexture" "world\utility\monitor_and_bezel_col"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\utility\monitor_and_bezel_spc"
+	"$reflectiontintshininess" "world\utility\monitor_and_bezel_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "0"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "-1"
+	"$specularboost" "1.25"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "world\utility\monitor_and_bezel_exp"
+}

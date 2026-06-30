@@ -1,4 +1,6 @@
-"Basic"
+"VertexLitGeneric"
 {
-    "$basetexture" "models\containers\gas_tank_col"
+	"$basetexture" "models\containers\gas_tank_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\containers\gas_tank_nml"
 }

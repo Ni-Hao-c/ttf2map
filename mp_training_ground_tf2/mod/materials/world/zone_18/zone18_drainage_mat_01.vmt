@@ -1,0 +1,24 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "world\zone_18\zone18_drainage_mat_01_col"
+	"$bumpmap" "world\zone_18\zone18_drainage_mat_01_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\zone_18\zone18_drainage_mat_01_spc"
+	"$reflectiontintshininess" "world\zone_18\zone18_drainage_mat_01_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1.0"
+	"$fresnelcurvesharpness" "1"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "0.34"
+	"$envmaptint" "[1.1 0.992156862745098 0.953333333333333]"
+	"$EnvmapSharpnessBias" "1"
+	"$specularboost" "1.5"
+	"$speculartint" "[0.8470588 0.9058824 0.9960784]"
+	"$shininess" "world\zone_18\zone18_drainage_mat_01_exp"
+	"$envmaplightscale" ".95"
+}

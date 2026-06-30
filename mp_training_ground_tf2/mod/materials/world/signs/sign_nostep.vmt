@@ -1,0 +1,14 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$vertexcolor" "1"
+	"$vertcolor_is_tint" "1"
+	"$vertexalpha" "1"
+	"$decal" "1"
+	"$decalscale" "0.25"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "world\signs\sign_nostep"
+	"$translucent" "1"
+}

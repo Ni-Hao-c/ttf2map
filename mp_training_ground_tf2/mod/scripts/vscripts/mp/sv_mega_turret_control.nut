@@ -5,7 +5,7 @@ global function MegaTurretControl_RegisterSite
 global function MegaTurretControl_Init
 
 const asset MEGA_TURRET_CONTROL_MODEL = $"models/turrets/turret_imc_lrg.mdl"
-const string MEGA_TURRET_CONTROL_AI_SETTING = "npc_turret_mega_frontierdefense"
+const string MEGA_TURRET_CONTROL_AI_SETTING = "npc_turret_mega_old"
 const float MEGA_TURRET_CONTROL_PANEL_RADIUS = 128.0
 const float MEGA_TURRET_CONTROL_TURRET_RADIUS = 8192.0
 const float MEGA_TURRET_CONTROL_TARGET_RANGE = 16000.0
@@ -185,7 +185,7 @@ entity function MegaTurretControl_Respawn( entity panel )
 	panel.s.megaTurretControlTurret = turret
 	turret.TakeActiveWeapon()
 	turret.GiveWeapon( "mp_weapon_turret_tday", [ "SoundGroupB" ] )
-	turret.SetModel(MEGA_TURRET_CONTROL_MODEL)
+	//turret.SetModel(MEGA_TURRET_CONTROL_MODEL)
 	print( "[MegaTurretControl] Respawned npc_turret_mega_old" )
 	return turret
 }

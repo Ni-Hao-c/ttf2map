@@ -111,5 +111,3 @@ void function Map_EntitiesDidLoad()
 
 	
 }
-
-

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\clutter\cardstuff_col"
+	"$bumpmap" "models\clutter\cardstuff_nml"
+	"$surfaceprop" "default"
+}

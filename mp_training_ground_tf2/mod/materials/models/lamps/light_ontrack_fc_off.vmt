@@ -2,19 +2,20 @@
 //This file is auto-generated from reVaMpT. Edit at your own risk.
 "VertexLitGeneric"
 {
+
 	"$surfaceprop" "metal"
 	"$basetexture" "models\lamps\light_ontrack_fc_off_col"
 	"$bumpmap" "models\lamps\light_ontrack_fc_nml"
 	"$envmap" "env_cubemap"
 	"$reflectiontint" "models\lamps\light_ontrack_fc_spc"
 	"$reflectiontintshininess" "models\lamps\light_ontrack_fc_spc"
-	// TF2_UNSUPPORTED $reflectiontintcolor: "$reflectiontintcolor" "1"
-	// TF2_UNSUPPORTED $fresnelamount: "$fresnelamount" "0"
-	// TF2_UNSUPPORTED $envmapfresnel: "$envmapfresnel" "1"
-	// TF2_UNSUPPORTED $envmapLambertian: "$envmapLambertian" "0.7"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "0"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "0.7"
 	"$envmaptint" "[1 1 1]"
-	// TF2_UNSUPPORTED $EnvmapSharpnessBias: "$EnvmapSharpnessBias" "0"
-	// TF2_UNSUPPORTED $specularboost: "$specularboost" "2"
-	// TF2_UNSUPPORTED $speculartint: "$speculartint" "[1 1 1]"
-	// TF2_UNSUPPORTED $shininess: "$shininess" "models\lamps\light_ontrack_fc_exp"
+	"$EnvmapSharpnessBias" "0"
+	"$specularboost" "2"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\lamps\light_ontrack_fc_exp"
 }

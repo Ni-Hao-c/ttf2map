@@ -1,0 +1,25 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\props\hologram_projector\hologram_projector_col"
+	"$bumpmap" "models\props\hologram_projector\hologram_projector_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\props\hologram_projector\hologram_projector_spc"
+	"$reflectiontintshininess" "models\props\hologram_projector\hologram_projector_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "10"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "3"
+	"$envmaptint" "[0 1 0.254901960784314]"
+	"$EnvmapSharpnessBias" "1"
+	"$speculartint" "[0 1 0.254902]"
+	"$shininess" "models\props\hologram_projector\hologram_projector_exp"
+	"$selfillum" "1"
+	"$selfillummask" "models\props\hologram_projector\hologram_projector_ilm"
+	"$selfillumtint" "[0 1 0.254902]"
+}

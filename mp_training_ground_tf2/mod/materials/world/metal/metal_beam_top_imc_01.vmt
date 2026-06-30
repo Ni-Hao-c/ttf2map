@@ -5,5 +5,5 @@
 
 	"$surfaceprop" "metal"
 	"$basetexture" "world\metal\metal_beam_top_IMC_01_col"
-	// TF2_UNSUPPORTED $bumpmap: "$bumpmap" "world\metal\metal_beam_top_IMC_01_nml"
+	"$bumpmap" "world\metal\metal_beam_top_IMC_01_nml"
 }

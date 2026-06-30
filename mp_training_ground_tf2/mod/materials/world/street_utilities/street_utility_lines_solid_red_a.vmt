@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world\street_utilities\street_utility_lines_solid_red_a_col"
+	"$surfaceprop" "default"
+
+	//"$vertexcolor" "1"
+	//"$vertexalpha" "1"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" 0.25
+}

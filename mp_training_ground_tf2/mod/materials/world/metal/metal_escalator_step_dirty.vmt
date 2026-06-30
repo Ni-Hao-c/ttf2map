@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world\metal\metal_escalator_step_dirty"
+	"$surfaceprop" "metal"
+}

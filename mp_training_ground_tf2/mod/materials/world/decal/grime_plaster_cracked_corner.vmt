@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "world\decal\grime_plaster_cracked_corner"
+	"$surfaceprop" "default"
+	
+   "$vertexcolor" "1"
+   "$vertexalpha" "1"
+   "$translucent" 1
+   "$decal" 1
+   "$decalscale" 0.25	
+}

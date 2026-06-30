@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\industrial\vending_machines_body_col"
+	"$surfaceprop" "default"
+	"$bumpmap" "models\industrial\vending_machines_body_nml"
+}

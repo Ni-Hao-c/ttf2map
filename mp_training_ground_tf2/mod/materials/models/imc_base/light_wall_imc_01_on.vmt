@@ -1,4 +1,22 @@
-"Basic"
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
 {
-    "$basetexture" "models\IMC_base\light_wall_IMC_01_col"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\IMC_base\light_wall_IMC_01_col"
+	"$bumpmap" "models\IMC_base\light_wall_IMC_01_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\IMC_base\light_wall_IMC_01_spc"
+	"$fresnelamount" "0"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[0.0635294117647059 0.0635294117647059 0.0635294117647059]"
+	"$EnvmapSharpnessBias" "0"
+	"$specularboost" "1.5"
+	"$speculartint" "[1 1 1]"
+	"$shininessoverridevalue" "5"
+	"$selfillum" "1"
+	"$selfillummask" "models\IMC_base\light_wall_IMC_01_ilm"
+	"$selfillumtint" "[0.75 0.75 0.75]"
 }

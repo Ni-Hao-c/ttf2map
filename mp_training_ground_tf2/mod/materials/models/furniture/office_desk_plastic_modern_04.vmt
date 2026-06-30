@@ -1,0 +1,25 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\furniture\office_desk_plastic_modern_04_col"
+	"$bumpmap" "models\furniture\office_desk_plastic_modern_04_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\furniture\office_desk_plastic_modern_04_spc"
+	"$reflectiontintshininess" "models\furniture\office_desk_plastic_modern_04_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	"$EnvmapSharpnessBias" "-.9"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\furniture\office_desk_plastic_modern_04_exp"
+	//Start of freehand input from reVaMpT//
+
+	"$envmaplightscale" "1"
+}

@@ -1,0 +1,6 @@
+When: "SERVER"
+Scripts:
+[
+	mp/levels/mp_zone_18.nut
+	mp/levels/mp_zone_18_fd.nut
+]

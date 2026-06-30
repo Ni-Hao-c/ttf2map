@@ -1,0 +1,25 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+
+	"$surfaceprop" "metal"
+	"$basetexture" "models\lamps\light_panel_building_blue_col"
+	"$bumpmap" "models\lamps\light_panel_building_blue_nml"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "models\lamps\light_panel_building_blue_spc"
+	"$reflectiontintshininess" "models\lamps\light_panel_building_blue_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "3"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "-.8"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "models\lamps\light_panel_building_blue_exp"
+	"$selfillum" "1"
+	"$selfillummask" "models\lamps\light_panel_building_blue_ilm"
+	"$selfillumtint" "[0.5458823 0.7058824 0.8]"
+}

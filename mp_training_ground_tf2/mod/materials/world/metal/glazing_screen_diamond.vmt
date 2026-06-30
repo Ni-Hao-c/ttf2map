@@ -1,0 +1,25 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"LightmappedGeneric"
+{
+	"$nocull" "1"
+	"%compilePassBullets" "1"
+
+	"$surfaceprop" "metal"
+	"$basetexture" "world\metal\glazing_screen_diamond_col"
+	"$bumpmap" "world\metal\glazing_screen_diamond_nml"
+	"$alphatest" "1"
+	"$envmap" "env_cubemap"
+	"$reflectiontint" "world\metal\glazing_screen_diamond_spc"
+	"$reflectiontintshininess" "world\metal\glazing_screen_diamond_spc"
+	"$reflectiontintcolor" "1"
+	"$fresnelamount" "1"
+	"$fresnelintensity" "1"
+	"$fresnelcurvesharpness" "0.01"
+	"$envmapfresnel" "1"
+	"$envmapLambertian" "2"
+	"$envmaptint" "[1 1 1]"
+	"$EnvmapSharpnessBias" "0"
+	"$speculartint" "[1 1 1]"
+	"$shininess" "world\metal\glazing_screen_diamond_exp"
+}

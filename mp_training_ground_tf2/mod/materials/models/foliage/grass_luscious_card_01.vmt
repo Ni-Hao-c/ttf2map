@@ -1,0 +1,13 @@
+// v1.01
+//This file is auto-generated from reVaMpT. Edit at your own risk.
+"VertexLitGeneric"
+{
+	"$nocull" "1"
+	"$nodecal" "1"
+	"%compilePassBullets" "1"
+	"%compileNoShadows" "1"
+
+	"$surfaceprop" "grass"
+	"$basetexture" "models\foliage\grass_luscious_card_01_col"
+	"$alphatest" "1"
+}

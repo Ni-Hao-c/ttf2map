@@ -8,5 +8,5 @@
 	"$surfaceprop" "concrete"
 	"$basetexture" "world\signs\caution_dirty_decal_col"
 	"$translucent" "1"
-	// TF2_UNSUPPORTED $detailscale: "$detailscale" "8"
+	"$detailscale" "8"
 }
